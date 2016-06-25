@@ -1,0 +1,12 @@
+0 The Philadelphia Vireo, Vireo philadelphicus, is a small songbird.
+1 Adults are mainly olive-brown on the upperparts with yellow underparts; they have dark eyes and a grey crown.
+1 There is a dark line through the eyes and a white stripe just over them.
+1 They have thick blue-grey legs and a stout bill.
+0 Their breeding habitat is the edges of deciduous and mixed woods across Canada.
+0 They make a basket-shaped cup nest in a fork of a tree branch, usually placed relatively high.
+0 These birds migrate to Mexico and Central America.
+0 This vireo is a very rare vagrant to western Europe.
+0 They forage for insects in trees, sometimes hovering or flying to catch insects in flight.
+0 They also eat berries, especially before migration.
+0 These birds sometimes imitate the calls of Red-eyed Vireos.
+0 They are unlikely to visit Philadelphia, except in migration.

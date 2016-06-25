@@ -1,0 +1,28 @@
+0 Swainson's Warbler, Limnothlypis swainsonii, is a small species of New World warbler.
+0 It is monotypic, the only member of the genus Limnothlypis.
+1 A small and rather non-descript species of New World warbler, Swainson's Warblers will grow to about 5 to 6½ inches in length and 15 grams in weight.
+1 They are a plain olive-brown above and pale yellow-white below.
+1 They have a whitish eyebrow stripe that runs above their eye, and the top of their head is a rusty brown.
+1 Unlike most other New World warblers that are mostly dimorphic, there is no difference in appearance between a male or female Swainson's warbler.
+0 Swainson's Warblers are uncommon, mostly found in flooded swamplands and canebrakes of the south-eastern United States.
+0 More rarely, they will also occur in rhododendron thickets in the southern Appalachian mountains.
+0 They are a migratory species, with part of the population migrating southeastwards to the Greater Antilles and the other southwestwards to the Yucatán Peninsula region in winter.
+0 This species begins breeding at about 10 months of age .
+0 Pairs form and stake out and defend a territory for nesting.
+0 Nests are fairly large and bulky, constructed from moss, grass, and small leaves situated above ground in a tangle of tall reeds or vines.
+0 The female will lay between 3 to 5 eggs.
+0 The eggs are white and sometimes, but rarely, speckled with brown.
+0 Incubation is done by the female only and lasts for about 14 days, after which the eggs will hatch.
+0 The young leave the nest about 12 days after they have hatched.
+0 It is not known how long pairs stay together, although once a pair-bond has been established they do not usually mate with other birds at least in the current nesting season.
+0 These birds live to as old as 8 years .
+0 No subspecies are recognized.
+0 There appears to be some divergence between populations from Arkansas and others of the coastal plains.
+0 This does fit a pattern one would expect from genetic drift, but there seem to be no geographical or ecological barriers restricting gene flow.
+0 Even during the last ice age, when average temperatures, precipitation and sea levels were lower, there seems to have been ample contiguous habitat.
+0 Clearly, some factor restricting gene flow is at work, but it is not presently known what it is.
+0 It is possible that the subpopulations conform to the different wintering areas.
+0 In some migrant birds it is known that the initial direction of the migration is set by fairly simple hereditary mechanisms.
+0 Offspring of pairs comprising birds of different subpopulations will, in such species, attempt to migrate into an intermediate direction.
+0 Such a course would lead a Swainson's Warbler deep into the Caribbean where there are no wintering or even stopover points, and the bird would almost certainly perish.
+0 More research such as analyzing bird banding data is needed to determine whether this mechanism applies in Swainson's Warbler.

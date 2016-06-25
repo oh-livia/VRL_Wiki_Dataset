@@ -1,0 +1,19 @@
+0 Brewer's Sparrow is a small, slim species of American sparrow in the family Emberizidae.
+0 This bird was named after the ornithologist Thomas Mayo Brewer.
+1 Adults have grey-brown backs and speckled brown crowns, both with dark streaks, and a pale eye-ring.
+1 Their wings are brown with light wing bars and the underparts are pale grey.
+1 Their bill is pale with a dark tip and they have a long notched tail.
+1 They are similar in appearance to the Clay-colored Sparrow but do not have a pale stripe on the crown or grey neck patch.
+1 The male sings to defend a nesting territory.
+1 The song is a long varied mix of notes and trills.
+1 Males have 2 distinct types of songs - classified as short and long songs.
+1 There are two distinct subspecies: These birds migrate to the southwestern United States south to central Mexico.
+0 These birds forage primarily in shrubs or in low vegetation, but also on the ground.
+0 They mainly eat insects in summer with seeds becoming a more important part of the diet at other times of the year.
+0 They usually forage in flocks outside of the breeding season, sometimes with other sparrows.
+0 The female typically lays 3 to 4 eggs in a cup nest in low shrubs.
+0 Brewer's Sparrow has decreased in some parts of their range.
+0 Causes are not well understood, but it is suspected that the decline is due at least in part to destruction of sagebrush habitat.
+0 Additional information on resource use and limitation during the wintering season is desperately needed.
+0 When the Timberline Sparrow was still considered a good species, Brewer's Sparrow was classified as Near threatened by the IUCN.
+0 However, as only entire species are evaluated for the IUCN Red List, following the merger the entire population of S. breweri is classified as Species of Least Concern.

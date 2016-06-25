@@ -1,0 +1,20 @@
+0 The Loggerhead Shrike is a passerine bird.
+0 It is the only member of the shrike family endemic to North America; the related Northern Shrike occurs north of its range but also in the Palearctic.
+1 The bird has a large hooked bill; the head and back are grey and the underparts white.
+1 The wings and tail are black, with white patches on the wings and white on the outer tail feather.
+1 The black face mask extends over the bill, unlike that of the similar but slightly larger Northern Shrike.
+0 The bird breeds in semi-open areas in southern Ontario, Quebec and the Canadian prairie provinces, south to Mexico.
+0 It nests in dense trees and shrubs.
+0 The female lays 4 to 8 eggs in a bulky cup made of twigs and grass.
+0 There is an increase in average clutch size as latitude increases.
+0 The shrike is a permanent resident in the southern part of the range; northern birds migrate further south.
+0 The bird waits on a perch with open lines of sight and swoops down to capture prey.
+0 Its food is large insects and lizards .
+0 Known in many parts as the "Butcher Bird," it impales its prey on thorns or barbed wire before eating it, because it does not have the talons of the larger birds of prey.
+0 The population of this species has declined in the northeastern parts of its range, possibly due to loss of suitable habitat and pesticide use.
+0 "Loggerhead" refers to the relatively large head as compared to the rest of the body.
+0 The Eastern Loggerhead Shrike is critically endangered in Canada.
+0 A captive population was established at the Toronto Zoo and McGill University in 1997.
+0 In 2001 an experimental field breeding and release program managed by Wildlife Preservation Canada was established.
+0 "Field breeding" refers to moving captive pairs from their wintering cages at the Toronto Zoo and McGill to large enclosures within shrike habitat in Ontario where the pairs nest and raise their young and then the young are released to the wild when they'd naturally disperse from their parents.
+0 Since 2004 over 90 young have been released annually and between 2% and 6.5% of young released have successfully migrated and returned to breed in the subsequent year.

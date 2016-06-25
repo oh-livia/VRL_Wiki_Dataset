@@ -1,0 +1,50 @@
+0 The Red-cockaded Woodpecker is a woodpecker found in southeastern North America.
+1 About the size of the Northern Cardinal, it is approximately 8.5 in. long, with a wingspan of about 14 in. and a weight of about 1.5 ounces.
+1 Its back is barred with black and white horizontal stripes.
+1 The Red-cockaded Woodpecker's most distinguishing feature is a black cap and nape that encircle large white cheek patches.
+1 Rarely visible, except perhaps during the breeding season and periods of territorial defense, the male has a small red streak on each side of its black cap called a cockade, hence its name.
+0 The Red-cockaded Woodpecker feeds primarily on ants, beetles, cockroaches, caterpillars, wood-boring insects, and spiders, and occasionally fruit and berries.
+0 Red-cockaded Woodpeckers are a territorial, nonmigratory, cooperative breeding species, frequently having the same mate for several years.The nesting season runs from April to June.
+0 The breeding female lays three to four eggs in the breeding male's roost cavity.
+0 Group members incubate the small white eggs for 10–12 days.
+0 Once hatched, the nestlings remain in the nest cavity for about 26 days.
+0 Upon fledging, the young often remain with the parents, forming groups of up to nine or more members, but more typically three to four members.
+0 There is only one pair of breeding birds within each group, and they normally only raise a single brood each year.
+0 The other group members, called helpers, usually males from the previous breeding season, help incubate the eggs and raise the young.
+0 Juvenile females generally leave the group before the next breeding season, in search of solitary male groups.
+0 Historically, this woodpecker's range extended in the southeastern United States from Florida to New Jersey and Maryland, as far west as eastern Texas and Oklahoma, and inland to Missouri, Kentucky, and Tennessee.
+0 Today it is estimated that there are about 5,000 groups of red-cockaded woodpeckers, or 12,500 birds, from Florida to Virginia and west to southeast Oklahoma and eastern Texas, representing about 1% of the woodpecker's original population.
+0 They have become extinct-, in New Jersey, Maryland, and Missouri.
+0 The Red-cockaded Woodpecker makes its home in mature pine forests.
+0 Longleaf Pines are most commonly preferred, but other species of southern pine are also acceptable.
+0 While other woodpeckers bore out cavities in dead trees where the wood is rotten and soft, the Red-cockaded Woodpecker is the only one which excavates cavities exclusively in living pine trees.
+0 The older pines favored by the Red-cockaded Woodpecker often suffer from a fungus called red heart rot which attacks the center of the trunk, causing the inner wood, the heartwood, to become soft.
+0 Cavities generally take from 1 to 3 years to excavate.
+0 The aggregate of cavity trees is called a cluster and may include 1 to 20 or more cavity trees on 3 to 60 acres .
+0 The average cluster is about 10 acres .
+0 Cavity trees that are being actively used have numerous, small resin wells which exude sap.
+0 The birds keep the sap flowing apparently as a cavity defense mechanism against rat snakes and possibly other predators.
+0 The typical territory for a group ranges from about 125 to 200 acres , but observers have reported territories running from a low of around 60 acres , to an upper extreme of more than 600 acres .
+0 The size of a particular territory is related to both habitat suitability and population density.
+0 The Red-cockaded Woodpecker plays a vital role in the intricate web of life of the southern pine forests.
+0 A number of other birds and small mammals use the cavities excavated by Red-cockaded Woodpeckers, such as chickadees, bluebirds, titmice, and several other woodpecker species, including the Downy, Hairy, and Red-bellied Woodpeckers.
+0 Larger woodpeckers may take over a Red-cockaded Woodpecker cavity, sometimes enlarging the hole enough to allow Eastern Screech Owls, Wood Ducks, and even Raccoons to move in later.
+0 Flying Squirrels, several species of reptiles and amphibians, and insects, primarily bees and wasps, also will use Red-cockaded Woodpecker cavities.
+0 The Red-cockaded Woodpecker has been the focus of conservation efforts even before the passing of the Endangered Species Act in 1970.
+0 Due to the high importance of nesting habitat on the woodpecker's reproduction, much management has been dedicated to create ideal and more numerous nesting sites.
+0 Nesting clusters have been spared from forestry activity to preserve old-growth, large diameter trees.
+0 The nesting sites themselves have also been managed to make them more appealing.
+0 The use of controlled burning has been used to reduce deciduous growth around nesting colonies.
+0 The red-cockaded woodpecker has been shown to prefer nesting sites with less deciduous growth.
+0 The use of controlled burning must be exercised with caution due to the highly flammable resin barriers formed by the woodpecker.
+0 In an effort to increase the Red-cockaded Woodpecker population, states such as Texas, Louisiana, and Georgia's wildlife management are creating artificial cavities in Longleaf Pine trees.
+0 There are two methods in which wildlife management officers use to insert cavities in long leaf pines.
+0 The most respected and latest approach is to carve out a nesting cavity in the tree and insert a man-made nest.
+0 The older and less used approach is to drill a cavity into the tree in hopes that the birds will settle there and nest.
+0 Due to the energetically expensive process of excavating new cavities, more energy is expended competing for existing home ranges rather than colonizing new areas.
+0 Red-cockaded woodpeckers will make use of artificial cavities and even recolonize abandoned ranges when cavities are created.
+0 In addition to the creation of new cavities, methods for protecting existing cavities are also used.
+0 The most common technique employed is a restrictor plate.
+0 The plate prevents other species from enlarging or changing the shape of the cavity entrance.
+0 These restrictor plates must be carefully monitored, however, to ensure that no hindrance is given to the woodpecker.
+0 Adjustments must also be made as the tree grows.

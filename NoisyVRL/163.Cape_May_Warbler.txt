@@ -1,0 +1,19 @@
+0 The Cape May Warbler, Setophaga tigrina, is a small New World warbler.
+0 It breeds in northern North America.
+0 Its breeding habitat spans across all but the westernmost parts of southern Canada, and into the Great Lakes region and New England.
+0 It is migratory, wintering in the West Indies.
+0 This species is a very rare vagrant to western Europe.
+1 The summer male Cape May Warbler has a brown back, yellowish rump and dark brown crown.
+1 The underparts are yellow, streaked black, giving rise to the bird's scientific name.
+1 The throat and nape are bright yellow and the face is chestnut with a black eyestripe.
+1 There is a narrow white wing bar.
+1 Other plumages resemble washed-out versions of the summer male, and, in particular, lack the strong head pattern.
+1 The yellowish rump and, at least indications of the white wing bar, are always present.
+0 The breeding habitats of this bird is the edges of coniferous woodland.
+0 Cape May Warblers nest in dense foliage near the trunk of a conifer, commonly a Black Spruce, and lay 4-9 eggs in a cup nest.
+0 This species is insectivorous, and lays larger clutches in years when Spruce Budworm is abundant.
+0 It picks insects up from the tips of conifer branches or flies out to catch insects in flight.
+0 The Cape May Warbler also feeds on berry juice and nectar in winter, and has, uniquely for a warbler, a tubular tongue to facilitate this action.
+0 The song of the Cape May Warbler is a simple repetition of high tsi notes.
+0 The call is a thin sip.
+0 This bird usually sings from high perches.

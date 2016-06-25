@@ -1,0 +1,111 @@
+0 The Arctic Tern is a seabird of the tern family Sternidae.
+0 This bird has a circumpolar breeding distribution covering the Arctic and sub-Arctic regions of Europe, Asia, and North America .
+0 The species is strongly migratory, seeing two summers each year as it migrates from its northern breeding grounds along a winding route to the oceans around Antarctica and back, a round trip of about 70,900 km each year.
+0 This is by far the longest regular migration by any known animal.
+0 The Arctic Tern flies as well as glides through the air, performing almost all of its tasks in the air.
+0 It nests once every one to three years ; once it has finished nesting it takes to the sky for another long southern migration.
+0 Arctic Terns are medium-sized birds.
+0 They have a length of 3339 cm and a wingspan of 7685 cm .
+0 They are mainly grey and white plumaged, with a red beak and feet, white forehead, a black nape and crown , and white cheeks.
+0 The grey mantle is 305 mm, and the scapulae are fringed brown, some tipped white.
+0 The upper wing is grey with a white leading edge, and the collar is completely white, as is the rump.
+0 The deeply forked tail is whitish, with grey outer webs.
+0 The hindcrown to the ear-coverts is black.
+0 Arctic Terns are long-lived birds, with many reaching thirty years of age.
+0 They eat mainly fish and small marine invertebrates.
+0 The species is abundant, with an estimated one million individuals.
+0 While the trend in the number of individuals in the species as a whole is not known, exploitation in the past has reduced this bird's numbers in the southern reaches of its range.
+0 The Arctic Tern has a worldwide, circumpolar breeding distribution which is continuous; there are no recognized subspecies.
+0 It can be found in coastal regions in cooler temperate parts of North America and Eurasia during the northern summer.
+0 While wintering during the southern summer, it can be found at sea, reaching the southern edge of the Antarctic ice.
+0 The species' range encompasses an area of approximately ten million square kilometers.
+0 The Arctic Tern is famous for its migration; it flies from its Arctic breeding grounds to the Antarctic and back again each year.
+0 This 19,000 km journey each way ensures that this bird sees two summers per year and more daylight than any other creature on the planet.
+0 One example of this bird's remarkable long-distance flying abilities involves an Arctic Tern ringed as an unfledged chick on the Farne Islands, Northumberland, UK, in the northern summer of 1982, which reached Melbourne, Australia, in October 1982, a sea journey of over 22,000 km in just three months from fledging.
+0 Another example is that of a chick ringed in Labrador, Canada, on 23 July 1928.
+0 It was found in South Africa four months later.
+0 Research using tracking devices attached to the birds was published in January 2010 and showed that the above examples are in fact not unusual for the species; eleven Arctic Terns that bred in Greenland or Iceland each covered 70,900 km on average in a year, with a maximum of 81,600 km.
+0 The difference from previous estimates was because the birds were found to take a meandering course to take advantage of prevailing winds.
+0 The average Arctic Tern lives about twenty years, and will travel about 2.4 million km .
+0 Arctic Terns usually migrate far offshore.
+0 Consequently, they are rarely seen from land outside the breeding season.
+1 The Arctic Tern is a medium-sized bird around 3336 cm from the tip of its beak to the tip of its tail.
+1 The wingspan is 7685 cm.
+1 The weight is 86127 g .
+1 The beak is dark red, as are the short legs and webbed feet.
+1 Like most terns, the Arctic Tern has high aspect ratio wings and a tail with a deep fork.
+1 The adult plumage is grey above, with a black nape and crown and white cheeks.
+1 The upperwings are pale grey, with the area near the wingtip being translucent.
+1 The tail is white, and the underparts pale grey.
+1 Both sexes are similar in appearance.
+1 The winter plumage is similar, but the crown is whiter and the bills are darker.
+1 Juveniles differ from adults in their black bill and legs, "scaly" appearing wings, and mantle with dark feather tips, dark carpal wing bar, and short tail streamers.
+1 During their first summer, juveniles also have a whiter forecrown.
+1 The species has a variety of calls; the two most common being the alarm call, made when possible predators enter the colonies, and the advertising call.
+1 The advertising call is social in nature, made when returning to the colony and during aggressive encounters between individuals.
+1 It is unique to each individual tern and as such it serves a similar role to the bird song of passerines, identifying individuals.
+1 Eight other calls have been described, from begging calls made by females during mating to attack calls made while swooping at intruders.
+1 While the Arctic Tern is similar to the Common and Roseate Terns, its colouring, profile, and call are slightly different.
+1 Compared to the Common Tern, it has a longer tail and mono-coloured bill, while the main differences from the Roseate are its slightly darker colour and longer wings.
+1 The Arctic Tern's call is more nasal and rasping than that of the Common, and is easily distinguishable from that of the Roseate.
+1 This bird's closest relatives are a group of South Polar species, the South American , Kerguelen , and Antarctic Terns.
+1 On the wintering grounds, the Arctic Tern can be distinguished from these relatives; the six-month difference in moult is the best clue here, with Arctic Terns being in winter plumage during the southern summer.
+1 The southern species also do not show darker wingtips in flight.
+1 The immature plumages of Arctic Tern were originally described as separate species, Sterna portlandica and Sterna pikei.
+0 Breeding begins around the third or fourth year.
+0 Arctic Terns mate for life, and in most cases, return to the same colony each year.
+0 Courtship is elaborate, especially in birds nesting for the first time.
+0 Courtship begins with a so-called "high flight", where a female will chase the male to a high altitude and then slowly descend.
+0 This display is followed by "fish flights", where the male will offer fish to the female.
+0 Courtship on the ground involves strutting with a raised tail and lowered wings.
+0 After this, both birds will usually fly and circle each other.
+0 Both sexes agree on a site for a nest, and both will defend the site.
+0 During this time, the male continues to feed the female.
+0 Mating occurs shortly after this.
+0 Breeding takes place in colonies on coasts, islands and occasionally inland on tundra near water.
+0 It often forms mixed flocks with the Common Tern.
+0 It lays from one to three eggs per clutch, most often two.
+0 It is one of the most aggressive terns, fiercely defensive of its nest and young.
+0 It will attack humans and large predators, usually striking the top or back of the head.
+0 Although it is too small to cause serious injury, it is still capable of drawing blood.
+0 Other birds can benefit from nesting in an area defended by Arctic Terns.
+0 The nest is usually a depression in the ground, which may or may not be lined with bits of grass or similar materials.
+0 The eggs are mottled and camouflaged.
+0 Both sexes share incubation duties.
+0 The young hatch after 2227 days and fledge after 2124 days.
+0 If the parents are disturbed and flush from the nest frequently the incubation period could be extended to as long as 34 days.
+0 When hatched, the chicks are downy.
+0 Neither altricial nor precocial, the chicks begin to move around and explore their surroundings within one to three days after hatching.
+0 Usually, they do not stray far from the nest.
+0 Chicks are brooded by the adults for the first ten days after hatching.
+0 Both parents care for hatchlings.
+0 Chick diets always include fish, and parents selectively bring larger prey items to chicks than they eat themselves.
+0 Males bring more food than females.
+0 Feeding by the parents lasts for roughly a month before being weaned off slowly.
+0 After fledging, the juveniles learn to feed themselves, including the difficult method of plunge-diving.
+0 They will fly south to winter with the help of their parents.
+0 Arctic Terns are long-lived birds that spend considerable time raising only a few young, and are thus said to be K-selected.
+0 The maximum recorded life span for the species is 34 years, although the average lifespan is about 20 years A study in the Farne Islands estimated an annual survival rate of 82%.
+0 The diet of the Arctic Tern varies depending on location and time, but is usually carnivorous.
+0 In most cases, it eats small fish or marine crustaceans.
+0 Fish species comprise the most important part of the diet, and account for more of the biomass consumed than any other food.
+0 Prey species are immature shoaling species such as herring, cod, sandlances, and capelin.
+0 Among the marine crustaceans eaten are amphipods, crabs and krill.
+0 Sometimes, these birds also eat molluscs, marine worms, or berries, and on their northern breeding grounds, insects.
+0 Arctic Terns sometimes dip down to the surface of the water to catch prey close to the surface.
+0 They may also chase insects in the air when breeding.
+0 It is also thought that Arctic Terns may, in spite of their small size, occasionally engage in kleptoparasitism by swooping at birds so as to startle them into releasing their catches.
+0 Several species are targetedconspecifics, other terns , and some auk and grebe species.
+0 While nesting, Arctic Terns are vulnerable to predation by cats and other animals.
+0 Besides being a competitor for nesting sites, the larger Herring Gull steals eggs and hatchlings.
+0 Camouflaged eggs help prevent this, as do isolated nesting sites.
+0 While feeding, skuas, gulls, and other tern species will often harass the birds and steal their food.
+0 They often form mixed colonies with other terns, such as Common and Sandwich Terns.
+0 Arctic Terns are considered threatened or species of concern in certain states.
+0 They are also among a species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds applies.
+0 The species reduced population in New England in the late nineteenth-century because of hunting for the millinery trade.
+0 Exploitation continues today in western Greenland, where the species has reduced population greatly since 1950.
+0 At the southern part of their range, the Arctic Tern has been reducing in numbers.
+0 Much of this is due to lack of food.
+0 However, most of these birds' range is extremely remote, with no apparent trend in the species as a whole.
+0 "Birdlife International has considered the species to be at lower risk since 1988, believing that there are approximately one million individuals around the world"

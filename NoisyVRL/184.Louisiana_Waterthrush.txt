@@ -1,0 +1,45 @@
+0 The Louisiana waterthrush is a New World warbler, that breeds in eastern North America and winters in the West Indies and Central America.
+0 Plain brown above, it is white below, with black streaks and with buff flanks and undertail, distinguishing it from the closely related northern waterthrush.
+0 The habitats it prefers are streams and their surroundings, and other wet areas.
+0 It breeds in eastern North America from southernmost Canada and south through the eastern United States, excluding Florida and the coast.
+0 The Louisiana waterthrush is migratory, wintering in Central America and the West Indies.
+0 This is a rare vagrant to the western United States.
+0 They are one of the earlier neotropical migrants to return to their breeding grounds in the spring, often completing their migration in late March or early April, which is almost two months before most other warblers reach their breeding grounds.
+0 They are also one of the earliest warblers to vacate their breeding grounds, with some departing as early as July; almost all will have left by late August.
+1 The Louisiana waterthrush has a plain brown back and white underparts streaked with black.
+1 The flanks and undertail are buff.
+1 There is a strong white flared supercilium, and the legs are bright pink.
+1 All plumages are similar, but young birds have buff underparts rather than white.
+1 The main confusion species is the closely related northern waterthrush, which has white flanks and undertail, a striped throat, a slightly smaller bill, a shorter supercilium and duller pink legs.
+1 In a study of the two waterthrushes in Connecticut nesting grounds, the Louisiana waterthrush, at an average of 20.6 g, was rather larger than the Northern, at an average of 16.2 g.
+1 The Louisiana waterthrush is one of the largest species of wood warbler, with only the aberrant yellow-breasted chat averaging larger in mean mass and linear measurements.
+1 It measures 14–17 cm in length and spanning 21–25.4 cm across the wings.
+1 The weight of adult birds can vary from 17.4 to 28 g.
+1 Among standard measurements, the wing chord is 7.4 to 8.5 cm, the tail 4.4 to 5.4 cm, the bill is 1.2 to 1.5 cm and the tarsus is 2 to 2.3 cm.
+1 The male's song is a musical, distinctive series of descending notes followed by a warble.
+1 The pitch of the beginning notes of the Louisiana's song usually descend, just as does the hilly stream that is its preferred habitat, whereas in the northern waterthrush the song does not vary in pitch as much.
+1 The call is a hard chink.
+1 Like the closely related northern waterthrush, the Louisiana waterthrush frequently bobs its tail.
+0 The male Louisiana waterthrush does not sing on its wintering grounds before it leaves.
+0 It sings immediately when it arrives on its breeding territory.
+0 Whether it begins singing during migration is not known.
+0 When establishing his territory, a male sings vigorously nearly all day.
+0 After he acquires a mate, singing decreases quickly and he concentrates his singing into the morning hours.
+0 The breeding habitat is wet woodlands near running water and does not occur outside such areas as a breeder.
+0 However, during winter, the Louisiana waterthrush mainly forages along flooded roads or trails, and in parks, lawns and gardens, rarely entering true forest, even forested wetlands, in the subtropics.
+0 The northern waterthrush prefers stagnant, swampy waters and is generally a more terrestrial forager.
+0 Louisiana waterthrushes prefer dense vegetation along the water's edge for nesting, since this provides the main protection of nest from predation.
+0 Louisiana waterthrushes nest in a rock crevice, mud bank or amongst tree roots, laying 4–6 eggs in a cup nest from late May to mid-June.
+0 Both parents construct the nest, which is built from wet, muddy leaves, pine needles, grass, and small twigs.
+0 The female Louisiana waterthrush incubates the eggs for 12 or 13 days.
+0 The fledging period lasts for 9 or 10 days, with both adults feeding the young for a further 4 weeks.
+0 They are one of a few passerine species that does most of its foraging in actively running water, which only the dippers are known for at the family level.
+0 Mostly they depend on aquatic insects, molluscs, and crustaceans.
+0 Occasionally ground-based insects, such as beetles and ants are taken, as well as flying insects, such as flies, which may be hawked on the wing.
+0 Alternately, they forage amongst the leaf litter.
+0 In circumstances where the insect prey is low, Louisiana waterthrushes can target prey as large as salamanders and small fish.
+0 Less common and widespread today than it was two centuries ago, the Louisiana waterthrush's decline is mainly due to the reduction of suitable habitat, through clearing and channelization of streams, as well as pollution, and the impounding of rivers and streams to create reservoirs.
+0 Additionally, because the Louisiana waterthrush is dependent on large areas of continuous forest, this species is likely to be threatened by increasing forest fragmentation.
+0 Timber harvesting, agriculture, urban development and gas drilling may further reduce the available habitat for this species.
+0 The population seems be quite extremely sensitive to changes in habitat quality and quantity.
+0 Threats to the Canadian population of this species include reduced insect prey and reductions in water supply due to agricultural drainage, excessive irrigation and climate change, as well as logging and habitat fragmentation.

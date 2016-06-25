@@ -1,0 +1,15 @@
+0 The Tennessee Warbler, Oreothlypis peregrina, is a New World warbler.
+0 It breeds in northern North America across Canada and the northern USA.
+0 It is migratory, wintering in southern Central America and northern Colombia and Venezuela, with a few stragglers going as far south as Ecuador.
+0 It is a very rare vagrant to western Europe.
+0 This bird was named from a specimen collected in Tennessee where it may appear during migration.
+1 The Tennessee Warbler is 11.5 cm long and weighs 8.5 g. The breeding male is brown above and white below.
+1 The head is gray with a white supercilium and black eye stripe.
+1 Females are duller, with a less contrasted head and yellow-tinged under-parts.
+1 Non-breeding and young birds are similar to the female, with first-winter birds being particularly yellow below.
+1 The song is a series of musical notes and trills.
+1 The call is a sharp sit.
+0 These birds feed on insects in summer, and numbers vary with the availability of Spruce Budworm.
+0 In winter they will also eat berries and nectar.
+0 The breeding habitat is coniferous or mixed woodland, especially spruce.
+0 Tennessee Warblers nest on the ground, laying 4-7 eggs in a cup nest.

@@ -1,0 +1,15 @@
+1 The worm-eating warbler is a small New World warbler.
+1 It is 13 cm long and weighs 13 g. It is relatively plain with olive-brown upperparts and light-coloured underparts, but has black and light brown stripes on its head.
+1 It has a slim pointed bill and pink legs.
+1 In immature birds, the head stripes are brownish.
+0 This bird breeds in dense deciduous forests in the eastern United States, usually on wooded slopes.
+0 The nest is an open cup placed on the ground, hidden among dead leaves.
+0 The female lays 4 or 5 eggs.
+0 Both parents feed the young; they may try to distract predators near the nest by pretending to be injured.
+0 In winter, these birds migrate to southern Mexico and Central America.
+0 Worm-eating Warblers eat insects, usually searching in dead leaves or bark on trees and shrubs, also picking through dead leaves on the forest floor.
+0 Despite their name, they rarely if ever eat earthworms.
+0 The male's song is a short high-pitched trill.
+0 This bird's call is a chip or tseet.
+0 Worm-eating Warblers have disappeared from some parts of their range due to habitat loss.
+0 They are vulnerable to nest parasitism by the Brown-headed Cowbird where forests are fragmented.

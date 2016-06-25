@@ -1,0 +1,31 @@
+0 The Black-capped Vireo, Vireo atricapilla, is a small bird native to the United States and Mexico.
+0 It has been listed as an endangered species in the United States since 1987.
+0 The IUCN lists the species as vulnerable.
+1 The Black-capped Vireo is a songbird about 12 cm in length.
+1 Sexually mature males are olive green above and white below with faint yellow flanks.
+1 The crown and upper half of the head is black with a partial white eye-ring and lores.
+1 The iris is brownish-red and the bill is black.
+1 Females are duller in color than males and have a slate gray crown and underparts washed with greenish yellow.
+1 First year males are intermediate in coloration between adult males and females.
+0 The male and female in a pair assist in nest construction and incubation.
+0 The female broods the young, while the male supplies most of the food during the nestling phase.
+0 Typically, three or four eggs are laid.
+0 The incubation period is 14 to 17 days, and the nestling period is 10 to 12 days.
+0 Breeding pairs are capable of producing more than one clutch per breeding season.
+0 The male cares for some or all of the fledglings, while the female re-nests - sometimes with another male.
+0 These birds are insectivorous, with beetles and caterpillars making up a large part of the diet.
+0 Black-capped Vireos nest in "shinnery," brushy areas with scattered trees.
+0 Shinneries primarily consist of shin oak or sumac.
+0 Appropriate height and density are important factors for this species' breeding success.
+0 Junipers seem to be of little or no importance.
+0 Foliage that extends to ground level is the most important requirement for nesting.
+0 Most nests are between 15 and 50 inches above ground level and are screened from view by foliage.
+0 Territories are sometimes located on steep slopes, where trees are often clumped and intermediate in height.
+0 On level terrain, preferred Black-capped Vireo habitat is a mixture of shrubs and smaller trees that average from eight to 10 feet high .
+0 Black-capped Vireos will no longer use sites where many trees are nearing full size.
+0 The historic breeding distribution of the Black-capped Vireo extended south from south-central Kansas through central Oklahoma and Texas to central Coahuila, Mexico.
+0 At present, the range extends from Oklahoma south through the Edwards Plateau and Big Bend National Park, Texas, to at least the Sierra Madera in central Coahuila, Mexico.
+0 In Oklahoma, the Black-capped Vireo is found only in Blaine, Cleveland, and Comanche counties.
+0 The winter range of this vireo is not well known.
+0 It is thought to winter along the west coast of Mexico from southern Sonora to Guerrero.
+0 The Black-capped Vireo is threatened by Brown-headed Cowbird brood parasitism, human disturbance, and loss of habitat to urbanization, fire exclusion, grazing, and brush control.

@@ -1,0 +1,53 @@
+0 The Song Sparrow is a medium-sized American sparrow.
+1 Adults have brown upperparts with dark streaks on the back and are white underneath with dark streaking and a dark brown spot in the middle of the breast.
+1 They have a brown cap and a long brown rounded tail.
+1 Their face is grey with a streak through the eye.
+1 For subspecies, see below.
+1 In the field, they are most easily confused with its congener the Lincoln's Sparrow, and the Savannah Sparrow.
+1 The former can be recognized by its shorter, greyer tail and the differently-patterned head, the brown cheeks forming a clear-cut angular patch.
+1 The Savannah Sparrow has a forked tail and yellowish flecks on the face when seen up close.
+0 Although they are a habitat generalist, their favorite habitat is brushy areas and marshes, including salt marshes, across most of Canada and the United States.
+0 They also thrive in human areas, such as in suburbs, along edges in agricultural areas, and along roadsides.
+0 In southern locations, they are permanent residents.
+0 Northern birds migrate to the southern United States or Mexico, where there is also a local population resident all year round.
+0 The Song Sparrow is a very rare vagrant to western Europe, with a few recorded in Great Britain and Norway.
+0 These birds forage on the ground, in shrubs or in very shallow water.
+0 They mainly eat insects and seeds.
+0 Birds in salt marshes may also eat small crustaceans.
+0 They nest either in a sheltered location on the ground or in trees or shrubs.
+0 The Song Sparrow lays 3–5 eggs.
+0 The egg coloring is a brown spotted greenish-white.
+0 The male of this species uses its melodious and fairly complex song to declare ownership of its territory and to attract females.
+0 The Song Sparrow's song consists of a combination of repeated notes, quickly passing isolated notes, and trills.
+0 The songs are very crisp, clear, and precise, making them easily distinguishable by human ears.
+0 A particular song is determined not only by pitch and rhythm but also by the timbre of the trills.
+0 Although one bird will know many songs—as many as 20 different tunes with as many as 1000 improvised variations on the basic theme,—unlike thrushes, the Song Sparrow usually repeats the same song many times before switching to a different song.
+0 Song Sparrows typically learn their songs from a handful of other birds that have neighboring territories.
+0 They are most likely to learn songs that are shared in common between these neighbors.
+0 Ultimately, they will choose a territory close to or replacing the birds that they have learned from.
+0 This allows the Song Sparrows to address their neighbors with songs shared in common with those neighbors.
+0 It has been demonstrated that Song Sparrows are able to distinguish neighbors from strangers on the basis of song, and also that females are able to distinguish their mate's songs from those of other neighboring birds, and they prefer songs of neighboring birds to those of strangers.
+0 Other birds such as mockingbirds are not able to effectively imitate the Song Sparrow's song.
+0 Common predators of the Song Sparrow include cats, hawks, and owls.
+0 Snakes, dogs, and the american kestrel are treated ambiguously, suggesting that they are less of a threat.
+0 The Song Sparrow recognizes enemies by both instinctual and learned patterns , and adjusts its future behavior based on both its own experiences in encounters, and from watching other birds interact with the enemies.
+0 Comparisons of experiments on hand-raised birds to observation of birds in the wild suggest that the fear of owls and hawks is instinctual, but fear of cats is learned.
+0 Song Sparrows' nests are parasitized by the brown-headed cowbird.
+0 The cowbirds' eggs closely resemble Song Sparrows' eggs, although the cowbirds' eggs are slightly larger.
+0 Song Sparrows recognize cowbirds as a threat and attack the cowbirds when they are near the nest.
+0 There is some evidence that this behavior is learned rather than instinctual.
+0 A more recent study found that the behavior of attacking female cowbirds near nests may actually attract cowbird parasitism because the female cowbirds use such behavior to identify female Song Sparrows that are more likely to successfully raise a cowbird chick.
+0 One study found that while cowbird parasitism did result in more nest failure, overall there were negligible effects on Song Sparrow populations when cowbirds were introduced to an island.
+0 The study pointed to a number of explanatory factors including Song Sparrows raising multiple broods, and Song Sparrows' abilities to raise cowbird chicks with their own.
+0 The Song Sparrow is one of the birds with the most numerous subspecies in North America, and even on a global scale rivals such species as the Horned Lark, the Yellow Wagtail, the Golden Whistler or the Island Thrush.
+0 52 subspecies were named altogether, of which 24 are considered valid nowadays.
+0 It is a cryptic species.
+0 Small, brownish, long-winged forms with strong black streaks.
+0 Large, dark, diffuse dark streaks.
+0 A study of mtDNA allozyme variation of most forms in this group concluded that they are of comparatively recent origin and that island populations are apparently derived independently from each other.
+0 Small, well-marked and short-winged brownish forms.
+0 All resident, except occasional birds from upland populations.
+0 Small, pale, streaks rufous; all resident.
+0 Black-spotted, white throats; all resident.
+0 Seen as a whole, the Song Sparrow is widespread and common to be classified as Species of Least Concern by the IUCN.
+0 The taxa mailliardi, maxillaris, samuelis , pusillula , and graminea are listed as Species of Special Concern in California.
