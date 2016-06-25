@@ -1,0 +1,10 @@
+0 The grasshopper sparrow is a small American sparrow.
+0 The genus Ammodramus contains nine species that inhabit grasslands and prairies.
+0 The Florida grasshopper sparrow is endangered.
+1 These small sparrows measure 10–14 cm in length, span about 17.5 cm across the wings and weigh from 13.8 to 28.4 g, with an average of 17 g.
+1 Adults have upperparts streaked with brown, grey, black and white; they have a light brown breast, a white belly and a short brown tail.
+1 Their face is light brown with an eye ring and a dark brown crown with a central narrow light stripe.
+0 There are regional variations in the appearance of this bird.
+0 Their breeding habitat is open fields and prairie across southern Canada, the United States, Mexico and Central America, with a small endangered population in the Andes of Colombia and (perhaps only formerly) Ecuador.
+0 The northern populations migrate to the southern United States, Mexico, Central America and the Caribbean.
+0 Like many grassland birds, this bird's numbers have declined across many parts of its range, including a 98% drop in New York State.

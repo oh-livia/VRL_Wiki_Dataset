@@ -1,0 +1,22 @@
+0 The Warbling Vireo, Vireo gilvus, is a small North American songbird.
+0 Its breeding habitat is open deciduous and mixed woods from Alaska to Mexico and the Florida Panhandle.
+0 It often nests along streams.
+0 It migrates to Mexico and Central America.
+0 Adults are 12 cm long and weigh 12 g.
+1 They are mainly olive-grey on the head and upperparts with white underparts; they have brown eyes and the front of the face is light.
+1 There is a white supercilium.
+1 They have thick blue-grey legs and a stout bill.
+1 Western birds are generally smaller and have darker grey crowns.
+0 They forage for insects in trees, hopping along branches and sometimes hovering.
+0 They also eat berries, especially before migration and in winter quarters, where they are – like other vireos – apparently quite fond of Gumbo-limbo seeds, though they will not venture into human-modified habitat to get them.
+0 They make a deep cup nest suspended from a tree branch or shrub, placed relatively high in the east and lower in the west.
+0 The male helps with incubation and may sing from the nest.
+0 Their song is a cheerful warble, similar to that of the Painted Bunting.
+0 There are subtle differences in song between eastern and western birds, at least where the ranges meet in Alberta.
+0 Some authorities split the eastern and western races of this species into separate species: The Western Warbling Vireo, V. swainsonii, includes V. g. swainsonii, which breeds from southeastern Alaska and southwestern Northwest Territories to the Sierra San Pedro Mártir, Baja California, and V. g. brewsteri, which breeds from southern Idaho, Wyoming, and Montana to south-central Oaxaca.
+0 These two subspecies winter in Mexico.
+0 The swainsonii group also includes V. g. victoriae, an isolated population breeding in the Sierra de la Laguna, Baja California Sur, and migrating to unknown wintering grounds.
+0 The Eastern Warbling Vireo, V. gilvus, breeds from central Alberta and northern Montana east and south through most of the United States and parts of southern Canada, outside the range of the previous group.
+0 It winters south of the Isthmus of Tehuantepec from south-central Chiapas to Nicaragua.
+0 It completes its autumn molt on the breeding grounds, while the swainsonii group completes it after leaving.
+0 The Brown-capped Vireo , resident in Central America and northern South America, is sometimes considered conspecific with the Warbling Vireo.

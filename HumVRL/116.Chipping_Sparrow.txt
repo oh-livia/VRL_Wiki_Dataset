@@ -1,0 +1,45 @@
+0 The Chipping Sparrow is a species of American sparrow in the family Emberizidae.
+0 It is widespread, fairly tame, and common across most of its North American range.
+1 Throughout the year, adults are gray below and an orangish-rust color above.
+1 Adults in alternate plumage have a persimmon-red cap, a nearly white supercilium, and a black trans-ocular line .
+1 Adults in basic plumage are less prominently marked, with a brownish cap, a dusky eyebrow, and a dark eye-line.
+1 Juvenile Chipping Sparrows are prominently streaked below.
+1 Like nonbreeding adults, they show a dark eye-line, extending both in front of and behind the eye.
+1 The brownish cap and dusky eyebrow are variable but generally obscure in juveniles.
+0 The song is a trill that varies considerably among birds within any particular region.
+0 Two broad classes of variation in the song of the Chipping Sparrow are the fast trill and the slow trill.
+0 Individual elements in the fast trill are run together about twice as fast as in the slow trill; the fast trill sounds like a buzz or like someone snoring, whereas the slow trill sounds like rapid finger-tapping.
+0 Individual elements in the trill are very similar to a high pitch "chi chi chi" call.
+0 The flight call of the Chipping Sparrow is heard year-round.
+0 Its flight call is piercing and pure-tone, lasting about 50 milliseconds.
+0 It starts out around 9 kHz, then falls to 7 kHz, then rises again to 9 kHz.
+0 The flight call may be transliterated as 'seen?'
+0 Chipping Sparrows migrate by night, and their flight calls are a characteristic sound of the night sky in spring and fall in the United States.
+0 In the southern Rockies and eastern Great Plains, the Chipping Sparrow appears to be the most common nocturnal migrant, judged by the number of flight calls detected per hour.
+0 On typical nights in August in this region, Chipping Sparrows may be heard at a rate of 15 flight calls per hour.
+0 On better-than-average nights, Chipping Sparrows occur at a rate of 60 flight calls per hour, and on exceptional nights Chipping Sparrows flight calls are heard more than 200 times per hour.
+0 Chipping Sparrows vary across their extensive North American range.
+0 There is minor geographic variation in appearance, and there is significant geographic variation in behavior.
+0 Ornithologists often divide the Chipping Sparrow into two major groups: the Eastern Chipping Sparrow and the Western Chipping Sparrow.
+0 However, there is additional plumage and behavioral variation within the Western group.
+0 At least two subspecies of Chipping Sparrows occur in western North America.
+0 The widespread Spizella passerina arizonae is associated with mountains and arid habitats of the western interior.
+0 A Pacific slope population constitutes subspecies S. p. stridula.
+0 Although these two races are both western, and are often lumped together as the Western Chipping Sparrow, they do not necessarily form a single entity that stands apart from the Eastern Chipping Sparrow .
+0 In eastern North America, Chipping Sparrows breed in woodlands, farmlands, and suburban and urban districts.
+0 In western North America, the Chipping Sparrow prefers conifer forests for breeding.
+0 The Chipping Sparrow is partially migratory, with almost all mid-latitude and high-latitude breeders withdrawing in winter to the southern United States and Mexico.
+0 On the wintering grounds and during migration, Chipping Sparrows are gregarious, forming tight flocks with other Chipping Sparrows or loose assemblages with other species such as Eastern Bluebirds and Pine Warblers.
+0 Throughout the year, Chipping Sparrows forage on the ground, often in loose flocks.
+0 Their diet consists mainly of seeds and crumbs of mostly any food, especially those fallen on the ground.
+0 Chipping Sparrows frequently forage directly from forbs and grasses, too.
+0 At any time of the year, especially, in spring, Chipping Sparrows may be seen in trees, even up in the canopy, where they forage on fresh buds and glean for arboreal arthropods.
+0 Although they are wary, Chipping Sparrows often allow close approach.
+0 A quiet observer can often get to within 50–100 feet of one or more Chipping Sparrows feeding on the ground.
+0 When spooked, Chipping Sparrows fly a short distance to the nearest tree or fencerow.
+0 In early spring, the first migrants return from their wintering grounds in March, but the bulk of migrants arrives throughout April.
+0 Males set up territories right away, and their trilled songs make them conspicuous.
+0 Breeding begins as early as April, but again, most nesting activity occurs from late April to early May onwards.
+0 Molt in the Chipping Sparrow follows the "Complex Alternate Strategy" as usual for American sparrows.
+0 It consequently has two molts per year as adults and three molts in their first year of life, also called their first plumage-cycle.
+0 The Chipping Sparrow's two adult molts occur in late summer and late winter.

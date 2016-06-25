@@ -1,0 +1,23 @@
+0 The Prairie Warbler, Dendroica discolor, is a small songbird of the New World warbler family.
+1 These birds have yellow underparts with dark streaks on the flanks, and olive upperparts with rusty streaks on the back; they have a yellow line above the eye, a dark line through it, and a yellow spot below it.
+1 These birds have black legs, long tails, pale wing bars, and thin pointed bills.
+1 Coloring is duller in female and immatures.
+0 Their breeding habitats are brushy areas and forest edges in eastern North America.
+0 The Prairie Warbler's nests are open cups, which are usually placed in a low area of a tree or shrub.
+0 These birds are permanent residents in the southern parts of their range.
+0 Other birds migrate to northeastern Mexico and islands in the Caribbean.
+0 Prairie Warblers forage actively on tree branches, and sometimes fly around with the purpose of catching insects, which are the main food source of these birds.
+0 Prairie Warblers have two categories of songs, referred to as Type A and Type B.
+0 Type A songs are typically a series of ascending buzzy notes.
+0 The B songs are an ascending series of whistled notes that often contain some buzzy notes.
+0 Compared to A songs, the B songs are lower in pitch, have fewer, longer notes.
+0 The total song length is longer as well in Type B songs.
+0 The use of these two song categories is associated with certain contexts.
+0 A songs are sung throughout the day when males first arrive on their breeding grounds.
+0 Once males are paired they begin to sing B songs during the dawn chorus and then will intersperse A songs in their singing during the rest of the day.
+0 During this later period of singing A songs are typically used near females, near the nest, and in the center of their territories.
+0 In contrast B songs are used when interacting or fighting with other males and near the borders of their territories.
+0 Part of their call note repertoire is a tsip call.
+0 During dawn, chorus B songs are interspersed with rapid loud "check" calls.
+0 These birds wag their tail feathers frequently.
+0 The numbers of these birds are declining due to habitat loss; this species also suffers from nest parasitism by the Brown-headed Cowbird.

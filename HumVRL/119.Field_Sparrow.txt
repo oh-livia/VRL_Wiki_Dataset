@@ -1,0 +1,12 @@
+1 The Field Sparrow is a small sparrow.
+1 Adults have brown upperparts, a light brown breast, a white belly, wing bars and a forked tail.
+1 They have a grey face, a rusty crown, a white eye ring and a pink bill.
+0 Their breeding habitat is shrubby fields across eastern North America.
+0 The nest is an open cup on the ground under a clump of grass or in a small thicket.
+0 These birds are permanent residents in the southern parts of their range.
+0 Northern birds migrate to the southern United States and Mexico.
+0 These birds forage on the ground or in low vegetation, mainly eating insects and seeds.
+0 They may feed in small flocks outside the nesting season.
+0 The male sings from a higher perch, such as a shrub or fencepost, which indicates his ownership of the nesting territory.
+0 The song is a series of sad whistles ending in a trill.
+0 This bird's numbers expanded as settlers cleared forests in eastern North America, but may have declined in more recent times.

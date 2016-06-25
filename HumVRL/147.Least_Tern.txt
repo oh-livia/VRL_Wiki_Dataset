@@ -1,0 +1,31 @@
+1 The Least Bittern is a small wading bird, the smallest heron found in the Americas.
+1 This bird's underparts and throat are white with light brown streaks.
+1 Their face and the sides of the neck are light brown; they have yellow eyes and a yellow bill.
+1 The adult male is glossy greenish black on the back and crown; the adult female is glossy brown on these parts.
+1 They show light brown parts on the wings in flight.
+0 These birds nest in large marshes with dense vegetation from southern Canada to northern Argentina.
+0 The nest is a well-concealed platform built from cattails and other marsh vegetation.
+0 The female lays 4 or 5 eggs.
+0 Both parents feed the young.
+0 A second brood is often produced in a season.
+0 These birds migrate from the northern parts of their range in winter for the southernmost coasts of the United States and areas further south, travelling at night.
+0 They mainly eat fish and insects, which they capture with quick jabs of their bill while climbing through marsh plants.
+0 The numbers of these birds have declined in some areas due to loss of habitat.
+0 They are still fairly common, but more often heard than seen.
+0 They prefer to escape on foot and hide than to take flight.
+0 These birds make cooing and clucking sounds, usually in early morning or near dusk.
+0 Least Bittern was originally described in 1789 by J. F. Gmelin based on specimens from Jamaica.
+0 Least Bittern forms a superspecies with Little Bittern and Yellow Bittern.
+0 There are five widely recognised subspecies.
+0 Birds from Ecuador are sometimes assigned to a sixth subspecies, limoncochae: North American birds were formerly divided into two subspecies, eastern exilis and western hesperis, but this is no longer believed to be a valid distinction.
+0 A dark rufous morph, "neoxenus", termed "Cory's Bittern" or "Cory's Least Bittern" was originally described by Cory as a separate species in 1885, from a specimen collected on or near the Caloosahatchee River, near Lake Okeechobee, in southwest Florida; Cory stated that the specimen was "without doubt perfectly distinct from any other known species".
+0 Further specimens followed over the next decades, from Florida, Michigan, Illinois, Wisconsin, Ohio and Ontario.
+0 Initially, Cory's Least Bittern was accepted as a valid species, with Elliott Coues and Richard Bowdler Sharpe both including it in published species lists.
+0 However, as early as 1892, doubts were raised about the validity of Cory's Least Bittern as a separate species.
+0 Nonetheless, in 1896, Frank Chapman wrote a detailed paper supporting its retention as a valid species.
+0 Outram Bangs later argued, in 1915, that this view was wrong, and proposed that Cory's should become a junior synonym of Least Bittern.
+0 This view eventually prevailed, with the American Ornithologists' Union removing the species from their list of North American birds in 1923, although others held dissenting views until at least 1928.
+0 Cory's Least Bittern was once fairly common, but it is now exceptionally rare, with only five sightings since 1950.
+0 More than 50 per cent of the historical records are from the Toronto region of Ontario.
+0 Initially known only from the North American subspecies exilis, it was first recorded in the South America subspecies erthyromelas in 1967.
+0 The Least Bittern is protected under the Migratory Bird Treaty Act of 1918.

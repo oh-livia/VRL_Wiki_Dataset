@@ -1,0 +1,45 @@
+0 The Wilson's Warbler, Wilsonia pusilla, is a small New World warbler.
+1 It is primarily greenish above and yellow below, with rounded wings and a long, slim tail.
+1 The male has a black crown patch which is greatly reduced or missing entirely in the female.
+0 It breeds across Canada and south through the western United States, and winters from Mexico south through much of Central America.
+0 It is a very rare vagrant to western Europe.
+1 The Wilson's Warbler is a small passerine, ranging from 10 to 12cm in length, with a wingspan of 14–17cm and a mass of 5–10g.
+1 It has a plain green-brown back and yellow underparts.
+1 The male has a small black cap.
+1 Males of the western race W. p. chryseola are greener above and brighter than the eastern race.
+0 The Western-central and Alaskan Warblers are typically slightly larger in size than those found on the Eastern and Pacific coast populations.
+0 Some of the common names include Chipe coronoa negra, Reinita Gorrinegra, Reinita de Wilson, Chipe Careto, Reinita de Capucha, Chipe Coroninegro in Spanish speaking populations and Paruline à calotte noire in French.
+0 Its song is a series of descending notes typically in a loud, rapid series of chatter-like tones.
+0 The male makes a hurried, staccato sound resembling chatter that will drop in pitch near the end of the call called a flat chuff.
+0 The Wilson's Warbler was first described in 1811 by the American ornithologist Alexander Wilson, who placed it in the Old World flycatcher genus Muscicapa.
+0 The species was moved to its current genus, Wilsonia, by the French naturalist and ornithologist Charles Lucien Bonaparte in 1838.
+0 However, it did not remain there for long; zoologist Thomas Nuttall moved it to the now-defunct genus Sylvania in 1840, and by 1845, many authors included it in the now-defunct genus Myiodioctes.
+0 In 1899, the American Ornithological Union returned the species to Wilsonia, where it has remained since.
+0 Its genus name, Wilsonia, is a Latinization of its describer's surname, and its species name, pusilla, is derived from the Latin word pusillus, meaning very small.
+0 There are three recognized subspecies: The Wilson's Warbler closely resembles the Yellow Warbler: the latter is distinguished primarily by its yellow tailfeathers.
+0 The breeding habitat is fairly open woodland with undergrowth or shrubs and thickets in moist areas with streams, ponds, bogs, and wet forest clearings.
+0 Wilson's warbler migrations for breeding to Northern Canada and Northwestern US in the summer with a winter migration to Southern Mexico.
+0 Winters in some overgrown clearings and coffee plantations as well as forest edges, deciduous forests, tropical evergreens, pine-oak forests, mangroves, thorn-scrubs, riparian gallery forests, brushy fields, and mixed forests across the Northern Hemisphere of Canada, the United States, and Mexico.
+0 Prefers secondary growth, riparian habitats, lakes, montane and boreal forests with overgrown clear-cuts.
+0 The Wilson warbler can inhabit tall shrubby vegetation characteristic of treed swamps.
+0 Lack of vegetation succession in coastal forests can limit the species diversity of riparian birds in harvested landscapes that have experienced destroyed natural habitat ranges after fires.
+0 The riparian species are then limited to the non-forested portions of the habitat surviving fire.
+0 The Wilson's Warbler is an insectivore, feeding primarily on insects gleaned from leaves and twigs, or caught by flycatching.
+0 Some of these insects include beetles, bees, or caterpillars.
+0 The Wilson's warbler is an active forager moving rapidly through shrubs, on the ground, and sometimes in taller trees during the winter.
+0 They often twitch their tails or flick their wings in a nervous manner while foraging.
+0 The observed feeding rates of the male Wilson's warbler was not significantly different between males with or without mates.
+0 It also eats a few berries.
+0 The majority of the breeding range occurs between the Northern United States boreal forest zones.
+0 Nesting generally begins in early March for the West coast populations into August for the Northern ranges.
+0 The female does the majority of the nest building.
+0 It builds a cup nest, typically constructed of vegetation and lined with grasses and hair from other animals resembling a bowl like shape.
+0 It is often sunken into moss or sedges located at the base of shrubs or under the lower branches of shrubs.
+0 The clutch varies between 2–7 eggs consisting of a creamy or off-white color with fine reddish spots throughout.
+0 The young are altricial.
+0 The montane populations generally have a higher clutch size and nest success rate than those on the coast.
+0 The eggs will hatch at 11-15 days and the young fledge at 8-13 days while one or the other parent will take care of them for several weeks.
+0 The Wilson's warbler can be territorial as well as seasonal monogamous although some Montane populations are polygymous .
+0 It has been predicted the Wilson warbler's paternal provisioning is typically essential to the female's general fitness when the territorial males have removed from their habitats.
+0 The Wilson's warbler nests often experience parasitism from the Brown-headed cowbird in which the Brown-headed cowbird will abandon it's own eggs in the nests of the Wilson's warbler to raise.
+0 Ground-nesting species, like the Wilson's warbler, have been studied to exhibit greater risk of detection by predatory species while at older ages they had a higher frequency and less rapid modulation warning calls than similar tree-nesting species.

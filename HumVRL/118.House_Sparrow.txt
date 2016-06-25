@@ -1,0 +1,208 @@
+0 ﻿The House Sparrow is a bird of the sparrow family Passeridae, found in most parts of the world.
+0 One of about 25 species in the genus Passer, the House Sparrow occurs naturally in most of Europe, the Mediterranean region, and much of Asia.
+0 Its intentional or accidental introductions to many regions, including parts of Australia, Africa, and the Americas, make it the most widely distributed wild bird.
+0 The House Sparrow is strongly associated with human habitations, and can live in urban or rural settings.
+0 Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, and deserts away from human development.
+1 A small bird, it has a length of 16cm and a weight of 24–39.5g.
+1 Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings.
+0 The House Sparrow feeds mostly the seeds of grains and weeds, and insects, and can perform complex and unusual tasks to obtain food.
+0 The predators of the House Sparrow include domestic cats, hawks, owls, and many other predatory birds and mammals.
+1 The House Sparrow is a chunky bird, typically about 16cm long, ranging from 14–18cm.
+1 It has a large rounded head, a short tail, and a stout bill.
+1 In weight, the House Sparrow generally ranges from 24–39.5g.
+1 Weight varies by sex, with females usually smaller than males.
+1 Younger birds are smaller, males are larger during the winter, and females larger during the breeding season.
+0 Between and within subspecies, there is further variation based on latitude, altitude, climate, and other environmental factors, under biological rules such as Bergmann's rule.
+1 The plumage of the House Sparrow is mostly different shades of grey and brown.
+1 The sexes differ, with females and juveniles mostly buff, and the male marked with bold colours.
+1 The male is duller in fresh non-breeding plumage, with buff tips on many feathers.
+1 Wear and preening expose bright markings of brown and black, including a throat and chest patch, called a "bib" or a "badge".
+0 This patch is variable in width and general size, and some scientists have suggested that patches signal social status or fitness, a hypothesis which has led to a "veritable 'cottage industry'" of studies, which have only conclusively shown that patches increase in size with age.
+1 In breeding plumage, the male has a grey crown, and is marked with black on its throat and beneath the crown.
+1 The cheeks and underparts are pale grey.
+1 The mantle and upper back are a warm brown, broadly streaked with black, while the lower back, rump and uppertail coverts are a greyish-brown.
+1 The female has no black on head or throat, nor a grey crown and its upperparts are streaked with brown.
+1 The juvenile is deeper brown, and the white is replaced by buff; the beak is pink to dull yellow.
+0 There is some variation in the twelve subspecies of House Sparrow.
+0 The subspecies are divided into two groups, the Oriental indicus group, and the Palaearctic domesticus group.
+1 Birds of the domesticus group have grey cheeks, while indicus group birds have white cheeks, as well as bright colouration on the crown, a smaller bill, and a longer black bib.
+1 The subspecies Passer domesticus tingitanus differs little from the nominate subspecies, except in the worn breeding plumage of the male, in which the head is speckled with black and underparts are paler.
+1 P. d. balearoibericus is slightly paler than the nominate but darker than P. d. bibilicus.
+1 P. d. bibilicus is paler than most subspecies, but has the grey cheeks of domesticus group birds.
+1 The similar P. d. persicus is paler and smaller, and P. d. niloticus is nearly identical but smaller.
+1 Of the less wide ranging indicus group subspecies, P. d. hyrcanus is larger than P. d. indicus, P. d. bactrianus is larger and paler, P. d. parkini is larger and darker with more black on the breast than any other subspecies, and P. d. hufufae is paler.
+0 The House Sparrow can be confused with a number of other seed-eating birds, especially its relatives in the genus Passer.
+0 Many of these relatives are smaller, with an appearance that is neater or "cuter", as with the Dead Sea Sparrow.
+1 The dull-coloured female often can not be distinguished from other birds, and it is nearly identical to the females of the Spanish Sparrow and Italian Sparrow.
+1 The Eurasian Tree Sparrow is smaller and more slender with a chestnut crown and a black patch on each cheek.
+1 The male Spanish Sparrow and Italian Sparrow are distinguished by their chestnut crowns.
+1 The Sind Sparrow is smaller, with the male less black on the throat and the female usually having a distinct pale supercilium.
+0 All of the House Sparrow's vocalisations are variations on its short and incessant chirping call.
+0 Transcribed as chirrup, tschilp, or philip, this note is made as a contact call by flocking or resting birds, or by males to proclaim nest ownership and invite pairing.
+0 In the breeding season the male gives this call repetitively, with emphasis and speed but not much rhythm, forming what is described either as a song or an "ecstatic call", similar to a song.
+0 Young birds, especially in captivity, also give a true song, a warbling similar to that of the European Greenfinch.
+0 Aggressive male House Sparrows give a trilled version of their call, transcribed as "chur-chur-r-r-it-it-it-it".
+0 This call is also used by females in the breeding season, to establish dominance over males while displacing them to feed young or incubate eggs.
+0 The House Sparrow gives a nasal alarm call, the basic sound of which is transcribed as quer, and it gives a shrill chree call in great distress.
+0 Another House Sparrow vocalisation is what has been described as an "appeasement call", a soft quee given to inhibit aggression, usually by a mated pair.
+0 These vocalisations are not unique to the House Sparrow, but are shared with small variations by all sparrows.
+0 The House Sparrow was among the first animals to be given a scientific name in the modern system of biological classification, since it was described by Carl Linnaeus in the 1758 10th edition of Systema Naturae, as Fringilla domestica.
+0 Later the genus name Fringilla came to be used only for the Chaffinch and its relatives, and House Sparrow has usually been placed in the genus Passer created by French zoologist Mathurin Jacques Brisson in 1760.
+0 The bird's scientific name and its usual English name have the same meaning.
+0 The Latin word passer, like the English word "sparrow", is a term for small active birds, coming from a root word referring to speed.
+0 The Latin word domesticus means "belonging to the house", like the common name a reference to its association with humans.
+0 The House Sparrow is also called by a number of alternative English names, including English Sparrow, chiefly in North America; and Indian Sparrow or Indian House Sparrow, for the birds of the Indian subcontinent and Central Asia.
+0 Dialectal names include sparr, sparrer, spadger, spadgick, and philip, mainly in southern England; spug and spuggy, mainly in northern England; spur and sprig, mainly in Scotland; and spatzie or spotsie, from the German Spatz, in North America.
+0 The genus Passer contains about 25 species, depending on the authority, 26 according to the Handbook of the Birds of the World.
+1 Most Passer species are dull-coloured birds with short square tails and stubby conical beaks, between 11and16cm long.
+0 Mitochondrial DNA suggest that speciation in the genus occurred during the Pleistocene and earlier, while other evidence suggests speciation occurred 25,000 to 15,000 years ago.
+0 Within Passer, the House Sparrow is part of the "Palaearctic black-bibbed sparrows" group and a close relative of the Mediterranean "willow sparrows".
+0 The taxonomy of the House Sparrow and its Mediterranean relatives is highly complicated.
+0 The common type of "willow sparrow" is the Spanish Sparrow, which resembles the House Sparrow in many respects.
+0 It frequently prefers wetter habitats than the House Sparrow, and it is often colonial and nomadic.
+0 In most of the Mediterranean, one or both species occur, with some degree of hybridisation.
+0 In North Africa, the two species hybridise extensively, forming highly variable mixed populations with a full range of characters from pure House Sparrows to pure Spanish Sparrows.
+0 In much of Italy there is a type of sparrow apparently intermediate between the House and Spanish Sparrows, known as the Italian Sparrow.
+0 It resembles a hybrid between the two species, and is in other respects intermediate.
+0 Its specific status and origin are the subject of much debate.
+0 In the Alps, the Italian Sparrow intergrades over a roughly 20km strip with the House Sparrow, but to the south it intergrades over the southern half of Italy and some Mediterranean islands with the Spanish Sparrow.
+0 On the Mediterranean islands of Malta, Gozo, Crete, Rhodes, and Karpathos, there are other apparently intermediate birds of unknown status.
+0 A large number of subspecies have been named, of which twelve were recognised in the Handbook of the Birds of the World.
+0 These subspecies are divided into two groups, the Palaearctic domesticus group, and the Oriental indicus group.
+0 Several Middle Eastern subspecies, including Passer domesticus biblicus, are sometimes considered a third, intermediate group.
+0 The subspecies P. d. indicus was described as a species, and was considered to be distinct by many ornithologists during the nineteenth century.
+0 Migratory birds of the subspecies P. d. bactrianus in the indicus group were recorded overlapping with P. d. domesticus birds without hybridising in the 1970s, so the Soviet scientists Edward I. Gavrilov and M. N. Korelov proposed the separation of the indicus group as a separate species.
+0 However, indicus-group and domesticus-group birds intergrade in a large part of Iran, so this split is rarely recognised.
+0 In North America, House Sparrow populations are more differentiated than those in Europe.
+0 This variation follows predictable patterns, with birds at higher latitudes being larger and those in arid areas being paler.
+0 However, it is not clear how much this is caused by evolution or by environment.
+0 Similar observations have been made in New Zealand, and in South Africa.
+0 The introduced House Sparrow populations may be distinct enough to merit subspecies status, especially in North America and southern Africa, and American ornithologist Harry Church Oberholser even gave the subspecies name plecticus to the paler birds of western North America.
+0 The House Sparrow originated in the Middle East and spread, along with agriculture, to most of Eurasia and parts of North Africa.
+0 Since the mid-nineteenth century, it has reached most of the world, due chiefly to deliberate introductions, but also through natural dispersal and shipborne travel.
+0 Its introduced range encompasses most of North America, Central America, southern South America, southern Africa, part of West Africa, Australia, New Zealand, and islands throughout the world.
+0 The House Sparrow has also greatly extended its range in northern Eurasia since the 1850s, and continues to do so, as was shown by the colonisations around 1990 of Iceland and Rishiri Island, Japan.
+0 The extent of its range makes it the most widely distributed wild bird on the planet.
+0 The House Sparrow has become highly successful in most parts of the world where it has been introduced.
+0 This is mostly due to its early adaptation to living with humans, and its adaptability to a wide range of conditions.
+0 Other factors may include its robust immune response, compared to the Eurasian Tree Sparrow.
+0 When introduced, the House Sparrow can spread quickly, sometimes at the rate of over 140 miles per year.
+0 In many parts of the world it has become a pest, and a threat to native bird species.
+0 A few introductions have died out or been of limited success, such as those to Greenland and Cape Verde.
+0 The first of many successful introductions to North America occurred when fifty pairs from England were released in Brooklyn, New York, in 1852.
+0 It now occurs from the Northwest Territories to southern Panama, and it is one of the most abundant birds in North America.
+0 The House Sparrow was first introduced to Australia in 1863 at Melbourne and is common throughout eastern Australia, but has been prevented from establishing itself in Western Australia, where every House Sparrow found in the state is killed.
+0 House Sparrows were introduced in New Zealand in 1859, and from there reached many of the Pacific islands, including Hawaii.
+0 In southern Africa birds of both the European subspecies domesticus and the Indian subspecies indicus were introduced around 1900.
+0 Birds of domesticus ancestry are confined to a few towns, while indicus birds have spread rapidly, reaching Tanzania in the 1980s.
+0 Despite this success, native relatives such as the Cape Sparrow also occur in towns, competing successfully with it.
+0 In South America, it was first introduced near Buenos Aires around 1870, and quickly became common in most of the southern part of the continent.
+0 It now occurs almost continuously from Tierra del Fuego to the fringes of Amazonia, with isolated populations as far north as coastal Venezuela.
+0 The House Sparrow is closely associated with human habitations and cultivation.
+0 It is not the obligate commensal of humans some have suggested it is, as Central Asian birds usually breed away from humans in open country, and birds elsewhere are found away from humans.
+0 The only habitats in which the House Sparrow does not occur are dense forest and tundra.
+0 Well adapted to living around humans, it can frequently live and even breed indoors, especially in factories, warehouses, and zoos.
+0 It has been recorded breeding in a coal mine 640m below ground, and feeding on the Empire State Building's observation deck at night.
+0 It reaches its greatest densities in urban centers, but its reproductive success is greater in suburbs, where insects are more abundant.
+0 On a larger scale, it is most abundant in wheat-growing areas such as the Midwestern United States.
+0 It tolerates a variety of climates, but prefers drier conditions, especially in moist tropical climates.
+0 It has a number of adaptations to dry areas, including a high salt tolerance and an ability to survive without water by ingesting berries.
+0 In most of eastern Asia the House Sparrow is entirely absent, replaced by the Eurasian Tree Sparrow.
+0 Where these two species overlap, the House Sparrow is usually more common than the Eurasian Tree Sparrow, but one species may replace the other in a manner that Maud Doria Haviland described as "random, or even capricious".
+0 In most of its range the House Sparrow is extremely common, despite some declines, but in marginal habitats such as rainforest or mountain ranges, its distribution can be spotty.
+0 The House Sparrow is a very social bird.
+0 It is gregarious at all seasons when feeding, often forming flocks with other types of bird.
+0 It also roosts communally, its nests are usually grouped together in clumps, and it engages in a number of social activities, such as dust and water bathing, and "social singing", in which birds call together in bushes.
+0 The House Sparrow feeds mostly on the ground, but it flocks in trees and bushes.
+0 For the larger part it is sedentary, rarely moving more than a few kilometres.
+0 There is limited migration in sedentary populations, with mountain birds moving to lower altitudes and some young birds dispersing long distances, especially on coasts.
+0 In addition, two subspecies, bactrianus and parkini, are predominately migratory and unlike the birds in sedentary populations that migrate, prepare for migration by putting on weight.
+0 Non-breeding House Sparrows roost in large groups in trees, gathering some time before and calling together.
+0 At feeding stations and at the nest, the female House Sparrows are dominant, despite their smaller size.
+0 As an adult, the House Sparrow mostly feeds on the seeds of grains and weeds, but it is opportunistic and adaptable, and eats whatever foods are available.
+0 It can perform complex and unusual tasks to obtain food, such as opening automatic doors to enter supermarkets, clinging to hotel walls to watch vacationers on their balconies, and nectar robbing kowhai flowers.
+0 In common with many other birds, the House Sparrow requires grit to digest the hard seeds it eats.
+0 Grit can be either stone, often grains of masonry, or the shells of eggs or snails; oblong and rough grains are preferred.
+0 Several studies of the House Sparrow in temperate agricultural areas have found the proportion of seeds in its diet to be about 90 percent.
+0 It will eat almost any seeds, but where it has a choice, it prefers oats and wheat.
+0 In urban areas, the House Sparrow feeds largely on food provided directly or indirectly by humans, such as bread, though it prefers raw seeds.
+0 The House Sparrow also eats some plant matter besides seeds, including buds, berries, and fruits such as grapes and cherries.
+0 In temperate areas, the House Sparrow has an unusual habit of tearing flowers, especially yellow ones, in the spring.
+0 Animals form another important part of the House Sparrow's diet, chiefly insects, of which beetles, caterpillars, dipteran flies, and aphids are especially important.
+0 Various non-insect arthropods are eaten, as are molluscs and crustaceans where available, earthworms, and even vertebrates such as lizards and frogs.
+0 Young House Sparrows are fed mostly on insects until about fifteen days after hatching.
+0 They are also given small quantities of seeds, spiders, and grit.
+0 In most places, grasshoppers and crickets are most the abundant foods of nestlings.
+0 True bugs, ants, sawflies, and beetles are also important, but House Sparrows will take advantage of whatever foods are abundant to feed their young.
+0 House Sparrows can breed in the breeding season immediately following their hatching, and sometimes attempt to do so.
+0 Some birds breeding for the first time in tropical areas are only a few months old, and retain juvenile plumage.
+0 Birds breeding for the first time are rarely successful in raising young, and reproductive success increases with age, as older birds breed earlier in the breeding season, and fledge more young.
+0 The timing of the House Sparrow's breeding season is varied, depending mostly on the availability of insects.
+0 Before the breeding season, unmated males take up nesting sites and call incessantly to attract females.
+0 When a female approaches a displaying male, the male displays by drooping and shivering his wings, pushing up his head, raising and spreading his tail, and displaying his bib.
+0 The male then tries to mate with the female, who adopts a threatening posture and attacks him before flying away.
+0 The male flies after the female and displays in front of her, attracting other males, who also pursue and display to the female.
+0 These other males usually do not copulate with the female.
+0 When the female is ready to copulate, she solicits to the male by giving a soft dee-dee-dee call.
+0 Pairs copulate frequently and the male mounts the female repeatedly.
+0 The House Sparrow is monogamous, and typically mates for life.
+0 Birds from pairs often engage in extra-pair copulations, so about 15 percent of House Sparrow fledgelings are unrelated to their mother's mate.
+0 Male House Sparrows guard their mates carefully to avoid being cuckolded, and most extra-pair occurs away from nest sites.
+0 Males may sometimes have multiple mates, and bigamy is mostly limited by aggression between females.
+0 Many birds do not find a nest and a mate, and instead may serve as helpers for mated pairs, a role which increases the chances of being chosen to replace a lost mate.
+0 Lost mates of both sexes can be replaced quickly during the breeding season.
+0 The formation of a pair and the bond between the two birds is tied to the holding of a nest site, though paired House Sparrows can recognise each other away from the nest.
+0 The House Sparrow's nesting sites are varied, but it prefers the shelter of a hole.
+0 Nests are most frequently built in the eaves and other crevices of houses.
+0 Holes in cliffs and banks, or in tree cavities are also used.
+0 It sometimes excavates its own nests in sandy banks or rotten branches, but it more frequently uses the nests of other birds: those of swallows in banks and cliffs, and old tree cavity nests.
+0 It usually uses unused nests, though it sometimes usurps actively used nests.
+0 The House Sparrow nests more commonly in tree holes in North America than in Europe, and as such it competes with bluebirds and other North American cavity nesters, contributing to their declines in population.
+0 Especially in warmer areas, the House Sparrow may build its nests in the open, on the branches of trees, especially evergreens and hawthorns; or in the nests of large birds such as storks or magpies.
+0 In open nesting sites, breeding success tends to be lower, since breeding begins late and the nest can easily be destroyed or damaged by storms.
+0 Less common nesting sites used by the House Sparrow include streetlights and neon signs, favoured for their warmth; and the old open-topped nests of other songbirds, which are domed over.
+0 The nest is usually domed, though it sometimes is not roofed over in enclosed sites.
+0 It has an outer layer of stems and roots, a middle layer of dead grass and leaves, and a lining of feathers, as well as paper and other soft materials.
+0 Nest typically have external dimensions of 20 × 30 cm , but their size varies greatly.
+0 The building of the nest is initiated by the unmated male while displaying to females.
+0 The female assists in building, but is less active than the male.
+0 Some nest building occurs throughout the year, especially after moult in autumn.
+0 In colder areas House Sparrows build specially created roost nests, or roost in streetlights, to avoid losing heat during the winter.
+0 The House Sparrow does not keep territories, but it defends its nest aggressively against intruders of the same sex.
+0 The House Sparrow's nests support a wide range of scavenging insects, including nest flies such as Neottiophilum praestum, Protocalliphora blowflies, and over 1,400 species of beetle.
+0 Clutches usually contain four or five eggs, though clutches with only one egg or with as many as ten eggs have been recorded.
+0 Clutch size is larger at poleward latitudes and smaller near the sea and on islands.
+0 Central Asian House Sparrows, which migrate and have only one clutch a year, have an average of 6.53 eggs in a year.
+0 Variation in clutch size is caused by environmental and seasonal conditions, female age, and breeding density.
+0 Some intraspecific brood parasitism occurs, and instances of unusually large numbers of eggs in a nest may be the result of females laying eggs in the nests of their neighbours.
+0 Such foreign eggs are sometimes recognised and ejected by females.
+0 The House Sparrow is a victim of interspecific brood parasites, but only rarely, since it usually uses nests in holes too small for parasites to enter, and it feeds its young foods unsuitable for young parasites.
+0 The House Sparrow has been recorded as a brood parasite of the Cliff Swallow once.
+0 The eggs are white, bluish-white or greenish-white, spotted with brown or grey.
+1 Subelliptical in shape, they range from 20-22mm in length and 14-16mm in width, have an average mass of 2.9g, and an average surface area of 9.18cm2in2.
+0 Eggs from the tropical subspecies are distinctly smaller.
+0 Eggs begin to develop with the deposition of yolk in the ovary a few days before ovulation.
+0 In the day between ovulation and laying, egg white forms, followed by eggshell.
+0 Eggs laid later in a clutch are larger, as are those laid by larger females, and egg size is hereditary.
+0 Eggs decrease slightly in size from laying to hatching.
+0 The yolk comprises 25 percent of the egg, the egg white 68 percent, and the shell 7 percent.
+0 Eggs are watery, being 79 percent liquid, and otherwise mostly protein.
+0 The female develops a brood patch of bare skin and plays the main part in incubating the eggs.
+0 The male helps, but can only cover the eggs rather than truly incubating them.
+0 The female spends the night incubating during this period, while the male roosts near the nest.
+0 Eggs hatch at the same time, after a short incubation period lasting 11–14 days, and exceptionally for as many as 17 or as few as 9.
+0 The length of the incubation period decreases as temperature increases later in the breeding season.
+0 Young House Sparrows typically remain in the nest for 11 to 23 days, normally 14 to 16 days.
+0 During this time, they are fed by both parents.
+0 As newly hatched House Sparrows do not have sufficient insulation they are brooded for a few days, or longer in cold conditions.
+0 The parents swallow the droppings produced by the hatchlings the first days.
+0 Later, the droppings are moved up to 20m away from the nest.
+0 The eyes open after about four days and at an age of about 8 days the young birds get their first down.
+0 If both parents perish, the ensuing intensive begging sounds of the young will often attract replacement parents who feed the young until they can sustain themselves.
+0 All the young in the nest leave it in the same period of a few hours.
+0 At this stage they are normally able to fly.
+0 They start feeding themselves partly after one or two days, and sustain themselves completely after 7 to 10 days, 14 at the latest.
+0 The House Sparrow's main predators are cats and birds of prey, but many other predators feed on the House Sparrow, including corvids, smaller squirrels, and even humans, as the House Sparrow has been consumed by humans in many parts of the world, and still is in parts of the Mediterranean.
+0 Most species of bird of prey have been recorded preying on the House Sparrow in places where there are extensive records.
+0 Accipiters and the Merlin in particular are major predators, though cats likely make a greater impact on House Sparrow populations.
+0 The House Sparrow is also a common victim of roadkill; on European roads, it is the bird most frequently found dead.

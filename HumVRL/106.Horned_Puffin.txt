@@ -1,0 +1,13 @@
+1 The Horned Puffin is an auk, similar in appearance to the Atlantic Puffin; this bird's bill is yellow at the base and red at the tip.
+0 It is a pelagic seabird that feeds primarily by diving for fish.
+0 It nests in colonies, often with other auks.
+1 The yellow bill plate grows before the breeding season and is shed later.
+1 They have a small fleshy black "horn" above their eyes.
+1 They have a white face with a dark line extending from the back of the eye and red feet.
+0 This species breeds on rocky islands off the coasts of Siberia, Alaska and British Columbia, in burrows, in rocky cavities or among rocks.
+0 It winters far out to sea.
+0 Feeding areas are usually located fairly far offshore from the nest.
+0 There is usually one chick and both parents feed the young.
+0 Horned Puffins will return from hunting with several small fish in their beaks.
+0 They also eat squid and crustaceans.
+0 The population of these birds has declined due to the introduction of rats onto some islands used for nesting.

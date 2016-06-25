@@ -1,0 +1,22 @@
+0 The Common Yellowthroat is a New World warbler.
+0 They are abundant breeders in North America, ranging from southern Canada to central Mexico.
+0 Northern races are migratory, wintering in the southern parts of the breeding range, Central America and the West Indies.
+0 Southern forms are largely resident.
+0 This species is a very rare vagrant to western Europe.
+1 Common Yellowthroats are small songbirds that have olive backs, wings and tails, yellow throats and chests, and white bellies.
+1 Adult males have black face masks which stretch from the sides of the neck across the eyes and forehead, which are bordered above with white or gray.
+1 Females are similar in appearance, but have paler underparts and lack the black mask.
+0 Immature birds are similar in appearance to the adult female.
+1 First-year males have a faint black mask which darkens completely by spring.
+0 There are 13 races of this bird.
+1 These races differ mainly in the males' facial patterns and the brightness of the yellow underparts.
+1 The southwestern forms of this bird are the brightest and the yellowest below.
+0 The breeding habitats of these birds are marshes and other wet areas with dense low vegetation, and may also be found in other areas with dense shrub.
+0 However, these birds are less common in dry areas.
+0 Females appear to prefer males with larger masks.
+0 Common Yellowthroats nest in low areas of the vegetation, laying 3–5 eggs in a cup-shaped nest.
+0 Both parents feed the young.
+0 These birds feed on insects, which are usually captured in dense vegetation, but sometimes caught in midair.
+0 The Common Yellowthroat's song is a loud twichety twichety twichety twich.
+0 Its call is a soft jip.
+0 Despite a decline in numbers in some areas, which is due to loss of favoured habitat, this species is still very common.

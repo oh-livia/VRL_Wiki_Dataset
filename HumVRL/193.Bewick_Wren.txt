@@ -1,0 +1,19 @@
+0 The Bewick's Wren is a wren native to North America.
+1 At about 14 cm long, it is grey-brown above, white below, with a long white eyebrow.
+1 While similar in appearance to the Carolina Wren, it has a long tail that is tipped in white.
+0 The song is loud and melodious, much like the song of other wrens.
+0 It lives in thickets, brush piles and hedgerows, open woodlands and scrubby areas, often near streams.
+0 It eats insects and spiders, which it gleans from vegetation or finds on the ground.
+0 Wrens are sometimes observed foraging with chickadees and other birds.
+0 Its range is from southern British Columbia, Nebraska, southern Ontario, and southwestern Pennsylvania south to Mexico, Arkansas and the northern Gulf States.
+0 The Bewick's Wren does not migrate.
+0 The nest is cup-shaped and located in a nook or cavity of some kind.
+0 It lays 5–7 eggs that are white with brown spots.
+0 The Bewick's Wren produces two broods in a season.
+0 Pairs are more or less monogamous when it comes to breeding, but go solitary throughout the winter.
+0 This is currently the only species of its genus, Thryomanes.
+0 The Socorro Wren, formerly placed here too, is actually a close relative of the House Wren complex, as indicated by biogeography and mtDNA NADH dehydrogenase subunit 2 sequence analysis, whereas Thryomanes seems not too distant from the Carolina Wren.
+0 A list of commonly recognized subspecies follows.
+0 Two have gone extinct during the 20th century, mainly due to habitat destruction and cat predation.
+0 The last three are sometimes united as T. b. mexicanus.
+0 The validity of subspecies needs to be verified using freshly caught birds and/or molecular data, as specimens are prone to foxing quickly.

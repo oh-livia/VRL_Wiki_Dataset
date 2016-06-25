@@ -1,0 +1,80 @@
+0 The Common Tern is a seabird of the tern family Sternidae.
+0 This bird has a circumpolar distribution, breeding in temperate and sub-Arctic regions of Europe, Asia and east and central North America.
+0 It is strongly migratory, wintering in coastal tropical and subtropical regions.
+0 It is sometimes known as the sea swallow.
+0 Its foreign names are, in French: Sterne pierregarin; Spanish: Gaviotin comun or Charran comun; Portugese: Trinta-réis-boreal or Garajau-comun ; German: Flusseeschwalbe.
+0 The old Scottish word for the Common Tern is pictar, occasionally encountered in Scotland and the Maritime Provinces of Canada.
+0 The Common Tern was one of the many species first described by Linnaeus in his 1758 work Systema Naturae.
+0 Its species' name is the Latin hirundo, meaning "swallow".
+0 Four subspecies are generally recognized: In North America, this species breeds along the Atlantic coast from Labrador to South Carolina, and inland throughout most of Canada east of the Rockies.
+0 In the United States, some breeding populations can also be found in the states bordering the Great Lakes, and on the Gulf Coast of Louisiana.
+0 These birds winter along the coasts of Central and South America, all the way down to Argentina on the east coast and to Northern Chile on the west coast.
+1 This medium-sized tern is 32–39 cm long with a 72–83 cm wingspan.
+0 It weighs 97-146 g. It is most readily confused within its range with the similar Arctic Tern , Roseate Tern , Antarctic Tern , and South American Tern .
+1 Breeding adults have light gray upperparts, white to very light gray underparts, a black cap, orange-red legs, and a thin, sharp, orange-red bill.
+1 The Common Tern's upperwings show a dark primary wedge, unlike the Arctic Tern in which the upperwing surface is uniformly grey.
+0 Its long tail extends no further than the folded wingtips on the standing bird, unlike Arctic and Roseate Terns in which the tail protrudes past the wingtips.
+1 The Common Tern is not as pale as the Roseate Tern and has longer wings.
+1 It is also smaller than the South American Tern.
+1 In winter, the forehead and underparts are white, the bill is all black or black with a red base, and the legs are dark red or black.
+1 Juvenile Common Terns show extensive ginger coloration and lack the 'scaly' appearance of juvenile Roseate Terns.
+0 This species breeds close to freshwater or seawater, in habitats such as sandy barrier beaches, vegetated sandy dune areas, or islands.
+0 It can adapt to artificial nesting structures.
+0 Outside of the breeding season, these birds are found on coastal estuaries or along large rivers.
+0 They can be seen in harbours and on jetties and piers.
+0 Like all Sterna terns, the Common Tern feeds by plunge-diving for fish, from a height of 1-6 m, either in the sea or in freshwater lakes and large rivers.
+0 It usually dives directly, and not from the "stepped-hover" favoured by Arctic Tern.
+0 It commonly forages in flocks .
+0 The prey fish are 5-15 cm long.
+0 Occasionally it can also take insects, crustaceans, and dead fish.
+0 The Common tern forages up to 20 km away from the breeding colony, usually within 1 km of the shore.
+0 It seeks fish that are within about 50 cm of the surface, and huge foraging flocks can form at sea where predatory fish drive prey fish to the surface.
+0 While bringing fish back to its nest it can be harassed by kleptoparasitic Jaegers, Laughing Gulls, Roseate Terns, or by other Common Terns.
+0 It itself can attempt to steal fish from Arctic Terns or Least Terns.
+0 This species breeds in colonies with as few as 20 pairs and as many as 6000, on coasts and islands, or inland on suitable freshwater lakes.
+0 It prefers sites with some vegetation that will afford cover to the newly hatched chicks.
+0 When natural sites are not available, it has been known to establish colonies on dredge spoil islands, derelict piers and barges, breakwaters, and floating rafts .
+0 Males select and start defending a nesting territory a few days after arrival in the spring.
+0 There a male is joined by his previous partner, unless she is more than 5 days late, in which case a divorce is likely.
+0 Aerial courtship displays then occur, in which a male and a female climb in wide circles to 100 m or more, or the male carries a fish in flight followed by several females, or birds descend together in zigzag glides.
+0 On the ground, males offer fishes to females.
+0 Once the pair is established or confirmed, both male and female scratch depressions in the ground, one of which will eventually become the nest.
+0 After the eggs are laid, some lining material is added throughout the incubation period, such as grass, reeds, or even rubbish.
+0 Clutch size is normally three eggs, fewer in bad food years.
+0 Eggs are normally 42 × 30.5 mm, 20 ml, and 21 g. They are cream, buff, or brown, and finely marked with streaks or spots of black, brown or grey.
+0 Incubation is by both sexes and lasts 22–33 days, depending on disturbances at the colony which may leave the eggs unattended.
+0 On very hot days the incubating parent may fly to water to wet its belly feathers before returning to the eggs, thus affording the eggs some cooling.
+0 At hatching the young are precocial, eyes open, covered in thick down, and capable of standing and taking food within 1–3 h. Young are brooded and fed fishes by both sexes.
+0 Chicks remain on nesting territory, forsaking the nest but seeking refuge in vegetation.
+0 They fledge after 22–29 days.
+0 Like many terns, this species is very defensive of its nest and young and will harass humans, dogs, muskrats and most diurnal birds, but unlike the more aggressive Arctic Tern it rarely hits the intruder, usually swerving off at the last moment.
+0 Adults can discriminate between individual humans, attacking familiar people more intensely than strangers.
+0 Nocturnal predators do not elicit similar attacks; colonies can be wiped out by rats, and adults desert the colony for up to 8 h when Great-Horned Owls are present.
+0 Common terns usually breed once a year.
+0 Second clutches are possible if the first one is lost.
+0 Rarely, a second clutch may be laid and incubated while some chicks from the first clutch are still being fed.
+0 First breeding attempt is usually at 4 years of age, sometimes at 3 years.
+0 Maximum documented lifespan in the wild is 26 years.
+0 Many calls exist and all have a sharp irritable timbre, and a lower pitch than the equivalent calls in Arctic Terns.
+0 The most common calls are a kip uttered during social contact, a down-slurred keeur given when approaching the colony while carrying a fish and possibly used for individual recognition , and a shrill kee-arr given when alarmed.
+0 There are other calls associated with fear, attack, brooding, begging, and mating.
+0 Eggs are vulnerable to rats, who can even store large number of eggs in caches.
+0 Weasels can also take chicks.
+0 However, the habit of Common Terns to nest on islands means that the most common predators are other birds rather than mammals.
+0 Gulls can take chicks.
+0 Great Horned Owls and Short-Eared Owls can take adults and chicks, while Black-crowned Night Herons can take small chicks.
+0 Peregrine falcons can kill adults.
+0 A more surprising predator is the Ruddy Turnstone, which can take eggs in unattended nests.
+0 The Common tern is an agile flyer, capable of rapid turns and swoops, hovering, and vertical take-off.
+0 Flight speed during migration is 12-15 m/s ..
+0 When commuting with fish it flies close to the surface in a strong head wind, but 10-30 m above the surface otherwise.
+0 On land it can walk or run.
+0 It perches on rocks, posts, rails, boats, or buoys.
+0 Head-scratching with the foot is direct and can be performed during flight.
+0 Anting and sunbathing have not been reported.
+0 Water bathing is done in shallow waters close to shore.
+0 Sleep is done with the bill tucked into the scapular feathers.
+0 Populations of Common terns were greatly reduced in the 19th century because of habitat loss due to development, hunting and egging by people, and also because of the millinery trade, where feathers, wings, and sometimes whole stuffed birds were used as hat decorations.
+0 Conservation initiatives greatly eased such pressures and the species recovered in the first half of the 20th century.
+0 However, starting in the mid-20th century, populations have started to decline again, likely due to a combination of factors such as competition for nesting sites by gulls , disturbance by people and off-road vehicles, and storm floods.
+0 The Common Tern is one of the species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds and the U.S.-Canada Migratory Bird Treaty apply.

@@ -1,0 +1,24 @@
+0 The Golden-winged Warbler, Vermivora chrysoptera, is a New World warbler, 11.6 cm long and weighing 8-10 g.
+0 It breeds in southeastern and south-central Canada and the Appalachian Mountains northeastern to north-central USA.
+0 The majority of the global population breeds in Wisconsin, Minnesota, and Manitoba.
+0 Golden-winged Warbler populations are slowly expanding northwards, but are generally declining across its range, most likely as a result of habitat loss and competition/interbreeding with the very closely related Blue-winged Warbler, Vermivora cyanoptera.
+1 Male has black throat; black ear patch bordered in white; yellow crown and wing patch.
+1 Females feature a smilar coloration pattern, but the black is replaced with light grey.
+1 In both sexes, extensive white on tail is conspicuous from below.
+1 Underparts are grayish white, bill is long and slender.
+0 Unlike most warblers, juveniles can be reliably sexed approximately 15 days after fledging.
+0 Golden-winged Warblers are migratory, breeding in eastern North America and wintering in southern Central America and the neighboring regions in Colombia, Venezuela, and Ecuador.
+0 This is a very rare vagrant to western Europe, with a single record of a bird wintering in a supermarket car park in Maidstone, Kent in 1989.
+0 Golden-winged Warblers breed in open scrubby areas, wetlands, and occasionally mature forest adjacent to those habitats.
+0 They lay 3-6 eggs in a highly concealed cup nest on the ground or low in a bush.
+0 These birds feed on insects, and spiders, most often leaf-roller caterpillars.
+1 Golden-winged Warblers have strong gaping musculature for their bill, allowing them to uncover hidden caterpillars.
+0 The song is highly variable, but is most often heard as a trilled bzzzzzzz buzz buzz buzz.
+0 The call is a buzzy chip or zip.
+0 This species forms two distinctive hybrids with Blue-winged Warbler where their ranges overlap in the Great Lakes and New England area.
+1 The commoner, genetically dominant Brewster's Warbler is gray above and whitish or yellow below.
+1 It has a black eyestripe and two white wingbars.
+1 The rarer recessive Lawrence's Warbler has a male plumage which is green and yellow above and yellow below, with white wing bars and the same face pattern as male Golden-winged.
+1 The female is gray above and whitish below with two yellow wing bars and the same face pattern as female Golden-winged.
+0 Genetic introgression occurs across their range, producing cryptic hybrids .
+0 These hybrids may be present in low numbers even on the edges of Golden-winged Warbler range, far from any populations of Blue-winged Warblers.
