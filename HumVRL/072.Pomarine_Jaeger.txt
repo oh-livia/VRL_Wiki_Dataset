@@ -1,0 +1,29 @@
+0 The Pomarine Skua, Stercorarius pomarinus, known as Pomarine Jaeger in the Americas, is a seabird in the skua family Stercorariidae.
+0 It is a migrant, wintering at sea in the tropical oceans.
+0 Its relationships are not fully resolved; its mitochondrial DNA is most similar to the Great Skua , but from morphology and behavior, it is closer to the lesser skuas .
+0 The most likely explanation is extensive hybridization between the Great and one species of lesser Skuas, which resulted in a hybrid population that eventually evolved into a distinct species, the Pomarine Skua; or alternatively between the Pomarine and a species of Southern Hemisphere skua, with the Great Skua being the hybrid offspring, perhaps appearing as recently as the 15th century .
+0 Judging from characteristics of the skeleton and behavior, the former seems more likely, as the Pomarine Skua shares several similarities with the "Catharacta" Skuas, while the Great Skua does not seem much different from its Southern Hemisphere relatives.
+0 The mtDNA difference between the Pomarine and the Great Skua is one of the smallest between any two vertebrate species yet analyzed, being less than the variation found between different individuals of widespread species.
+0 The apparent capability for hybridization has led to the abolition of the separate genus Catharacta for the Southern Hemisphere and Great Skuas.
+0 It is from the French pomarin, shortening scientific Latin pomatorhinus, from Greek, meaning "having a covered nose".
+0 This refers to the cerewhich the Pomarine Skua shares with the other skuas.
+1 This species ranges from 46 to 67 cm in length, 110 to 138 cm in wingspan and 540920 g in weight.
+1 The upper limit of the length includes the elongated tail streamer of breeding adults, which is about 10 cm in length.
+0 Identification of this skua is complicated by its similarities to Arctic Skua and the existence of three morphs.
+1 Pomarine Skuas are larger than Common Gulls.
+1 They are much bulkier, broader-winged and less falcon-like than Arctic Skua, but show the same wide range of plumage variation.
+0 The flight is more measured than that of the smaller species.
+0 It has many harsh chattering calls and others which sounds like which-yew.
+1 Light-morph adult Pomarine Skuas have a brown back, mainly white underparts and dark primary wing feathers with a white "flash".
+1 The head and neck are yellowish-white with a black cap.
+1 Dark morph adults are dark brown, and intermediate morph birds are dark with somewhat paler underparts, head and neck.
+1 All morphs have the white wing flash, which appears as a diagnostic double flash on the underwing.
+1 In breeding adults of all morphs, the two central tail feathers are much longer than the others, spoon-shaped, and twisted from the horizontal.
+0 Juveniles are even more problematic to identify, and are difficult to separate from Arctic Skua at a distance on plumage alone.
+0 Breeding This species breeds in the far north of Eurasia and North America.
+0 It nests on Arctic tundra and islands, laying 23 olive-brown eggs in grass lined depressions.
+0 Like other skuas, it will fly at the head of a human or other intruder approaching its nest.
+0 Although it cannot inflict serious damage, the experience is frightening and painful.
+0 Feeding This bird feeds on lemmings, other rodents, offal, scraps, small birds and also robs gulls, terns and even Gannets of their catches; it will also kill birds up to the size of Common Gull.
+0 Like most other skua species, it continues this piratical behaviour throughout the year, showing great agility as it harasses its victims.
+0 Only the White-tailed Eagle and the Golden Eagle are known to take adult, healthy Pomarine Skuas.

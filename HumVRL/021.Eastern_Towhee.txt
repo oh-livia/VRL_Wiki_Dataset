@@ -1,0 +1,178 @@
+0 The Eastern Towhee, Pipilo erythrophthalmus, is a large New World sparrow.
+0 The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the Spotted Towhee were considered a single species, the Rufous-sided Towhee.
+1 Adults have rufous sides, a white belly and a long dark tail with white edges.
+1 The eyes are red, white for birds in the southeast.
+1 Males have a dark head, upper body and tail; these parts are brown in the female.
+0 Their breeding habitat is brushy areas across eastern North America.
+0 They nest either low in bushes or on the ground under shrubs.
+0 Northern birds migrate to the southern United States.
+0 There has been one record of this species as a vagrant to western Europe; a single bird in Great Britain in 1966.
+0 The song is a short Drink your teeeeea lasting around one second, starting with a sharp call and ending with a short trill "teeeeea".
+0 The name "towhee" is onomatopoeic description of one of the towhee's most common calls, a short two-part call rising in pitch and sometimes also called a "chewink" call.
+0 The eastern towhee occurs throughout the eastern United States.
+0 Occurrences from southern Saskatchewan and Quebec south to Florida, and west to eastern Texas are noted in a literature review.
+0 Populations north of southern New England through northern Indiana and Illinois to southern Iowa are primarily summer residents.
+0 Pipilo e. erythrophthalmus occurs in the most northerly part of the eastern towhee's distribution in the summer, and migrates to the southern and eastern portion of the species' range in the winter.
+0 The other subspecies are largely residents.
+0 Pipilo e. canaster occurs from south-central Louisiana, north to northeastern Louisiana east through Mississippi, extreme southwestern Tennessee, northern Alabama and Georgia, central South Carolina to western North Carolina, and south to northwestern Florida and east along the Gulf Coast.
+0 The range of P. e. rileyi extends from northern Florida through southern Georgia and coastal South Carolina to east-central North Carolina.
+0 Pipilo e. alleni occurs in peninsular Florida.
+0 Eastern towhee occurs in vegetation of disturbed areas, such as old-field successional vegetation and shrubby areas of power line right-of-ways.
+0 In northwestern Arkansas, eastern towhees occurred in old-field vegetation where dwarf sumac occurred at a frequency of 28.6%, winged elm at a frequency of 21%, and black cherry at a frequency of 19.2%.
+0 Shrubby vegetation along power lines is commonly used by eastern towhees.
+0 For example in Maryland, eastern towhee territories along a power line right-of-way corresponded with shrubby areas containing species such as Allegheny blackberry and blueberry .
+0 Other species included hawthorn , red maple , black cherry, and black locust .
+0 Arrival and departure of eastern towhees into summer breeding grounds varies with location.
+0 According to a literature review, eastern towhees typically arrive in New York in early April and leave by the middle of November.
+0 A review of eastern towhee in New Hampshire describes arrival in late April to May with the majority of eastern towhees departing in September.
+0 Further south, on the border of Tennessee and North Carolina, migration to high-elevation areas within the Great Smoky Mountains begins as early as March.
+0 Eastern towhees typically leave these sites in October.
+0 The Pipilo e. erythrophthalmus subspecies is the most migratory of the subspecies.
+0 Breeding begins in spring and continues to late summer.
+0 Reports of eastern towhees nesting as early as late March in Florida and Georgia, in mid- to late April in some midwestern states, and as late as mid-May in northern New England were summarized in a literature review.
+0 Literature reviews also report nest construction by the female, which takes about 3 to 5 days.
+0 Egg laying typically occurs until August.
+0 For example, a review of eastern towhee in Indiana notes nesting from 15 April to 20 August.
+0 However, a literature review of eastern towhee in Florida included a report of an eastern towhee nest observed on 2 September 1983 that contained 2 eggs.
+0 According to several literature reviews, eastern towhees may renest after failed nesting attempts and can raise 2, and in the south sometimes 3, broods per season.
+0 In a literature review, Greenlaw reports mean breeding territory size of 4 acres , n=24) in a mesic oak forest where eastern towhees occurred at a density of 21 males/40 ha.
+0 In a xeric pine -oak woodland where eastern towhee density was 32 males/40 ha, mean eastern towhee territory size was 3 acres , n=20).
+0 In Massachusetts, mean male eastern towhee territory size was about 1.3 acres , and female eastern towhee territory size was 1.1 acres .
+0 Territory size changed over the course of the breeding season and was not significantly affected by reductions in food availability of 30% or less.
+0 During the winter eastern towhees are not as territorial and may be seen in mixed species flocks.
+0 Daily movement of eastern towhees in loblolly and longleaf pine forests and clearcuts in South Carolina averaged 325 feet per day.
+0 Only 2 females, out of 11 females and 9 males, stayed within the stand where they were captured for the duration of a 10-week study.
+0 Eastern towhees have fairly strong fidelity to breeding territories.
+0 In an oak forest in New Jersey, adult eastern towhee return rates were 20% the 1st year after banding and 43% in subsequent years.
+0 Between 1960 and 1967, the maximum number of eastern towhee returns to the site was 5.
+0 In a Pennsylvania woodlot observed between 1962 and 1967, an eastern towhee returned to the site for 4 consecutive years.
+0 Several reviews report eastern towhee clutch sizes from 2 to 6 eggs, with means ranging from 2.45 to 3.6 eggs per nest.
+0 All 5 eastern towhee nests on Sanibel Island, Florida, contained 3 eggs.
+0 Eastern towhees in 2 pitch pine barrens sites in New Jersey and New York had a later median egg laying date and significantly smaller average early nest clutch sizes than those in an oak-hickory site, which had a median egg-laying date in early June and an average early nest clutch size of 3.88.
+0 Food availability likely explains at least some of the differences between the 2 habitat types.
+0 Eggs are incubated by the female for 12 or 13 days.
+0 After hatching both parents feed the young, which fledge 10 to 12 days later and are dependent on parental care for about another month.
+0 A wide range of eastern towhee nest success values have been reported.
+0 On Sanibel Island, 1 of the 5 eastern towhee nests observed was successful.
+0 In Louisiana, average daily nest success rate was 95.3% on a bottomland hardwood forest site.
+0 The same study found a 92.6% average daily nest success rate in a 6-year-old managed cottonwood plantation in Alabama.
+0 Average eastern towhee nest success across mixed bigtooth and quaking aspen stands of varying ages in Pennsylvania was 48.1%.
+0 In South Carolina, only 1 of 10 nests was successful, and the mean daily nest survival rate was 62.9%.
+0 This low value was explained by high levels of predation.
+0 Due to lower nest success rates of Bachman's sparrow than the previous year, it is suggested that eastern towhee nest success may have been measured during a comparatively poor year.
+0 Compared to nests, adult towhee survival rates are high.
+0 Average weekly adult survival rate of eastern towhees in a South Carolina study area was 99.3%.
+0 This rate was obtained from radio-marked eastern towhees and represented the pooled survival of both sexes and from 2 South Carolina sites, young and mature stands of loblolly and longleaf pine.
+0 Between 1962 and 1967 in Pennsylvania, annual survival of breeding eastern towhees calculated from mistnetting recaptures was 58%.
+0 According to a literature review, both males and females become reproductively mature in their 2nd year.
+0 Eastern towhees of over 12 years old have been reported in the wild.
+0 Eastern towhees range from near sea level to as high as 6,500 ft along the border of Tennessee and North Carolina during the summer.
+0 A literature review reports eastern towhees up to 3,000 feet in New Hampshire.
+0 Eastern towhees spend the majority of their time near the ground.
+0 For instance, in Pennsylvania in spring, observations of eastern towhees below 3 feet from the ground occurred significantly more than expe0ted based on random spatial distribution, and observations above 3 feet occurred significantly ) increasing from 4% to 7%.
+0 Eastern towhees occur in many habitats, from tallgrass prairies and marshes to mature forests.
+0 However, eastern towhees are most common in early successional stands, habitat edges, and areas with similar vegetation structure throughout 0astern forests.
+0 In most communities eastern towhees are more abundant in young successional stands.
+0 Several studies found increased eastern towhee abundance on early successional sites compared to later-successional sites.
+0 Mean number of breeding eastern towhees and nest success rate were higher in a 15-year-old clearcut in West Virginia, than in other treatme0ts, including a stand of yellow-poplar , black cherry, red maple, sugar maple , and white ash that was not harvested.
+0 In a southern Missouri oak-hickory forest, eastern towhees were not present before clearcutting or in the nearby uncut forest after cutting, but occurred at a mean density of 9.3 birds/10 ha in a 3-year-old clearcut.
+0 A study of stands of varying ages in central New York found that eastern towhee density peaked in early successional stands.
+0 Although eastern towhees generally prefer young successional sites, variation between habitat types and years has been observed.
+0 Krementz and Powell found higher relative abundance of eastern towhee in young stands of loblolly and longleaf pine than mature stands when investigated in 1995.
+0 However, in stands compared in 1996, the 95% confidence intervals of eastern towhee relative abundance on the 2 sites had a substantial degree of overlap.
+0 The degree to which eastern towhee responds to succession is influenced by habitat.
+0 For example, in Pennsylvania there was a significant difference between eastern towhee densities between mature mixed-oak forest and stands that had been clearcut about 5 years previously.
+0 However, eastern towhee densities did not differ significantly between a 1-year old mixed aspen clearcut, a 5-year old aspen clearcut, and a mature aspen stand.
+0 Eastern towhee abundance has been shown to peak at different times in different habitats.
+0 For instance, although in central hardwood forests eastern towhees were most abundant in regenerating stands, in loblolly and shortleaf pine forest they were most common in pole timber and mature stands.
+0 In addition, Bell and Whitmore concluded that early successional is likely too broad of a term for describing optimal towhee habitat, since high density of small trees was negatively associated with eastern towhee density in the eastern panhandle of West Virginia.
+0 Eastern towhees seem to prefer sites with characteristics generally associated with early successional vegetation, such as low canopy cover and dense understory.
+0 Negative correlations between eastern towhee abundance and various measurements of overstory density have been found in several studies.
+0 Average density of eastern towhees across 6 habitat types in Pennsylvania was significantly negatively correlated with density of overstory trees and basal area of overstory trees.
+0 Number of eastern towhees in a western Virginia hardwood forest was also significantly inversely correlated with total percent canopy cover.
+0 In a loblolly pine forest in South Carolina, the average number of eastern towhee breeding territories per experimental unit was significantl0 negatively correlated with mid-story ) pine and deciduous volume.
+0 Many studies have demonstrated a positive correlation between eastern towhee abundance and understory density.
+0 In a loblolly pine forest in South Carolina, understory ) pine volume was significantly positively correlated with the average number of eastern towhee territories per experimental unit.
+0 Yahner found the average density of eastern towhees over 6 habitat types was significantly positively correlated with density of short ) shrubs.
+0 In east-central Florida slash pine flatwoods with understories dominated by myrtle oak and sand live oak and in scrub sites with scattered slash pine and cabbage palmetto , eastern towhee densities were significantly negatively correlated with mean shrub height.
+0 Eastern towhees may associate with and avoid certain plants.
+0 In riparian vegetation in Iowa, eastern towhee density was significantly positively associated with total plant and vine species richness and negatively correlated with forb and deciduous tree species richness.
+0 In West Virginia, eastern towhees were associated with plant species that occurred on drier ridgetops, such as blackberry , black cherry , and black locust .
+0 These sites tended to have open canopies and low tree density.
+0 Eastern towhee density was negatively associated with plants of the moister parts of this study area, such as black tupelo , red maple , and witch hazel .
+0 In central New Jersey eastern towhees were significantly more abundant in gray dogwood shrubland than either eastern redcedar or multiflora rose shrublands.
+0 Nesting habitat: Eastern towhees typically nest on or near the ground.
+0 Several literature reviews note the predominance of eastern towhee nests below 5 feet .
+0 In a study of cowbird parasitism on Sanibel Island, all 5 eastern towhee nests located were within 6 feet of the ground.
+0 Nests as high as 18 feet have been reported in literature reviews.
+0 Nests higher off the ground in mixed aspen stands of varying ages in Pennsylvania had significantly lower nest success.
+0 Of 13 unsuccessful eastern towhee nests, 11 were greater than 1 foot above the ground.
+0 In West Virginia, there were no significant differences in habitat surrounding successful and unsuccessful nests.
+0 Large snags ) did not have an effect on nesting success.
+0 Nesting success was not significantly affected by stand age or distance to edge in even-aged mixed-aspen stands in Pennsylvania.
+0 Eastern towhees nest in a variety of species including grape and blueberry .
+0 The majority of nests observed in South Carolina loblolly and longleaf pine forests and clearcuts were located in grape, tree sparkleberry , and oak .
+0 On an oak-hickory site in West Virginia, 27% of 41 eastern towhee nests were found in grape, 17% in blackberry , 12% in greenbrier , and 12% in mountain-laurel .
+0 Nests also occurred in Virginia creeper , spice bush , and azalea .
+0 In a power line right-of-way in Pennsylvania, the 6 eastern towhee nests observed occurred in Allegheny blackberry, witch-hazel , blueberry , white oak , eastern hayscented fern and sweetfern combined, and on ground level.
+0 According to literature reviews, eastern towhee nests located on the ground are embedded in litter in dry areas and typically occur at the base of grasses, forbs, low shrubs, or small trees.
+0 Foraging habitat: Selection of forging habitat by eastern towhees has been investigated in Massachusetts and New Jersey.
+0 When gleaning in a southeastern Massachusetts pitch pine barren, eastern towhees preferred species such as pitch pine, bear oak , and other deciduous trees, mainly oaks.
+0 Ericaceous species were avoided.
+0 Use differed significantly from availability.
+0 On 2 New Jersey sites, eastern towhee foraging preference switched over the course of the breeding season.
+0 On a site dominated by oaks, primarily black oak , eastern towhees used oaks in May, as would be expected due to their density.
+0 However, in June and July, as relative arthropod biomass declined in oaks, use of oaks was less than would be expected.
+0 On a pitch pine-dominated site, use of oaks ) was greater than would be expected in May, but was proportionate to availability in June and July.
+0 These negative correlations between date and oak use were significant for both sites.
+0 Use of the oak-dominated site also decreased significantly through the summer.
+0 Effects of spatial area: Eastern towhees appear to prefer edge habitats in many areas.
+0 For instance, the mean abundance of eastern towhees in a baldcypress in northern Florida was 18, while eastern towhees did not occur in either the baldcypress forest or the clearcut.
+0 At the interface of the baldcypress stand and a 13-year-old planted slash pine stand, mean abundance of eastern towhees was 22 breeding birds, while in the planted slash pine stand the average abundance was 15 breeding birds.
+0 Density of eastern towhees was found to decline with distance from the edge of a power line right-of-way and an oak-hickory forest in eastern Tennessee.
+0 At the edge eastern towhees occurred at a density of just over 10 pairs/40 ha, while 197 feet from the edge eastern towhee density had dropped to 1 pair/40 ha.
+0 In addition, in experimentally clearcut Pennsylvanian forests composed of white oak, northern red oak , chestnut oak , scarlet oak , red maple, quaking aspen, bigtooth aspen, and pitch pine, male towhees were detected significantly more often than expected in the areas where the spatial arrangement of clearcuts was most patchy.
+0 Several studies have addressed the effect of the size of habitat patches on eastern towhees.
+0 In mixed-oak forest in New Jersey, eastern towhee frequency generally increased with patch size, although eastern towhees were detected in all plot sizes ) except 0.02–acre plots.
+0 On a site in South Carolina, eastern towhee frequency of occurrence increased as clearcut size increased from less than 2.5 acres to clearcut sizes from 21 to about 32 acres .
+0 On another site eastern towhee frequency declined as clearcut size increased from 19 to 33 acres to 48 to 62 acres .
+0 Eastern towhees only bred in riparian vegetation patches in Iowa that were at least 650 feet wide.
+0 In southern and eastern Pennsylvania eastern towhee nest success was not significantly different on sites with gradual edges and those with more distinct edges between "wildlife habitat openings" and oak-hickory forest.
+0 Eastern towhees primarily eat on the ground, although they also glean from vegetation.
+0 In a southeastern Massachusetts pitch pine barren, 73.5% of male and 80.4% of female foraging observations were on the ground.
+0 When foraging on the ground eastern towhees use a scratching technique where both feet kick back simultaneously.
+0 In a laboratory study 4 eastern towhees used this method to successfully obtain seed buried almost 1 inch deep.
+0 When foraging above ground the majority of time is spent gleaning foliage.
+0 In Massachusetts, 22.5% of male and 16.3% of female foraging observations were of food being gleaned from foliage.
+0 Eastern towhees were also observed gleaning from twigs, branches, and trunks.
+0 When gleaning, eastern towhees occurred significantly more often on the distal half of tree branches compared to using distal and proximal portions equally.
+0 In 0.5% of male and 0.3% of female foraging observations, eastern towhees hovered.
+0 Eastern towhees were never observed catching food out of the air.
+0 Eastern towhees eat a variety of plant and animal matter.
+0 In literature reviews, eastern towhees are reported to eat seeds and fruits, several invertebrates, and occasionally small amphibians, snakes, and lizards.
+0 Reviews report eastern towhees foraging at feeders.
+0 Reviews show that animal matter makes up a larger proportion of the diet in the breeding season.
+0 In fall and winter, plants make up 79% and 85% of the diet, respectively.
+0 This drops to 53% in spring and 43% in summer.
+0 Insects such as beetles , grasshoppers and crickets , ants, wasps, and bees , and moths and caterpillars are common prey items.
+0 Eastern towhees eat other invertebrates such as spiders , millipedes , centipedes , and snails to a lesser extent.
+0 Plants that comprise at least 5% of the eastern towhee diet include ragweed , oak, smartweed , and corn in the Northeast and blackberry, oak, panicgrass , ragweed, and wax-myrtle in the Southeast.
+0 Many animals prey on eastern towhees and their eggs, including reptiles, mammals, and birds.
+0 A literature review summarizes several reports demonstrating that predators are a major cause of nest failure.
+0 The highest nest predation rate noted was 88% in a New York study.
+0 Mammals that are likely nest predators include northern raccoons , domestic cats , and eastern chipmunks .
+0 Snakes such as bullsnakes , rat snakes and garter snakes have been reported eating eastern towhee eggs.
+0 Weasels and blue jays are also likely nest predators.
+0 Several birds are known to prey on adult eastern towhees, including short-tailed , sharp-shinned and Cooper's hawks .
+0 At least some mammals also feed on adult eastern towhees.
+0 In Maryland, an eastern towhee was found in the stomach contents of a red fox .
+0 Brown-headed cowbirds parasitize eastern towhee nests.
+0 In a South Carolina old field 5 of 19 eastern towhee nests were parasitized.
+0 Each parasitized nest contained 1 brown-headed cowbird egg.
+0 The desertion rate for parasitized nests was 20%, which was similar to nests that had not been parasitized .
+0 Two of the five brown-headed cowbird eggs produced fledglings.
+0 The study did not determine if there was a difference in nest success between parasitized and nonparasitized nests.
+0 In West Virginia, only 3 of 41 eastern towhee nests were parasitized by the brown-headed cowbird.
+0 Average number of fledged young in nonparasitized nests was 2.8, which was similar to the average of 2.7 fledglings per parasitized nest.
+0 In a Pennsylvania study site, only 2 of 36 nests were parasitized and both produced eastern towhee fledglings.
+0 In a study of nest parasitism on Sanibel Island, none of 5 eastern towhee nests found were parasitized.
