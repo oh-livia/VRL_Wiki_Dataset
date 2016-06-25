@@ -1,9 +1,0 @@
-0 The Bronzed Cowbird , Molothrus aeneus, is a small icterid.
-0 It breeds from the southern U.S. states of California, Arizona, New Mexico, Texas, and Louisiana south through Central America to Panama.
-0 An isolated population on the Caribbean coast of Colombia is sometimes treated as a separate species, the Bronze-brown Cowbird .
-0 The male Bronzed Cowbird is 20 cm long and weighs 68 g, with green-bronze glossed black plumage and red eyes.
-0 The female is 18.5 cm long and weighs 56 g. She is duller black above and browner below.
-0 Young birds are like the female but have grey feather fringes.
-0 Like all cowbirds, this bird is a brood parasite: it lays its eggs in the nests of other birds.
-0 The young cowbird is fed by the host parents at the expense of their own young.
-0 Hosts include Prevost's Ground-Sparrow and Yellow-throated Brush Finch.
