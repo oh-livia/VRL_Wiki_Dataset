@@ -1,0 +1,84 @@
+0 The White-breasted Nuthatch is a small songbird of the nuthatch family which breeds in old-growth woodland across much of temperate North America.
+0 It is a stocky bird, with a large head, short tail, powerful bill and strong feet.
+0 The upperparts are pale blue-gray, and the face and underparts are white.
+0 It has a black cap and a chestnut lower belly.
+0 The nine subspecies differ mainly in the color of the body plumage.
+0 Like other nuthatches, the White-breasted Nuthatch forages for insects on trunks and branches, and is able to move head-first down trees.
+0 Seeds form a substantial part of its winter diet, as do acorns and hickory nuts that were stored by the bird in the fall.
+0 The nest is in a hole in a tree, and the breeding pair may smear insects around the entrance as a deterrent to squirrels.
+0 Adults and young may be killed by hawks, owls and snakes, and forest clearance may lead to local habitat loss, but this is a common species with no major conservation concerns over most of its range.
+0 The nuthatches are a genus, Sitta, of small passerine birds which derive their English name from the propensity of some species to wedge large insects or seeds into cracks, and then hack at them with their strong bills.
+0 Sitta is derived from sittē, the Ancient Greek for nuthatch, and carolinensis means "of Carolina" in Latin.
+0 The White-breasted Nuthatch was first described by English ornithologist John Latham in his 1790 work, the Index Ornithologicus.
+0 Nuthatch taxonomy is complex, with geographically separated species sometimes closely resembling each other.
+0 The White-breasted Nuthatch has a similar appearance and contact call to the White-cheeked Nuthatch, Sitta leucopsis, of the Himalayas and was formerly considered to be conspecific.
+1 Like other members of its genus, the White-breasted Nuthatch has a large head, short tail, short wings, a powerful bill and strong feet; it is 13–14 cm long, with a wingspan of 20–27 cm and a weight of 18–30 g .
+1 The adult male of the nominate subspecies, S. c. carolinensis, has pale blue-gray upperparts, a glossy black cap , and a black band on the upper back.
+1 The wing coverts and flight feathers are very dark gray with paler fringes, and the closed wing is pale gray and black, with a thin white wing bar.
+1 The face and the underparts are white.
+1 The outer tail feathers are black with broad diagonal white bands across the outer three feathers, a feature readily visible in flight.
+1 The female has, on average, a narrower black back band, slightly duller upperparts and buffer underparts than the male.
+1 Her cap may be gray, but many females have black caps, and cannot be reliably distinguished from the male in the field.
+1 In the northeastern United States, at least 10% of females have black caps, but the proportion rises to 40–80% in the Rocky Mountains, Mexico and the southeastern U.S.
+1 Juveniles are similar to the adult, but duller plumaged.
+1 Like other nuthatches, this is a noisy species with a range of vocalizations.
+1 The male's mating song is a rapid nasal qui-qui-qui-qui-qui-qui-qui.
+1 The contact call between members of a pair, given most frequently in the fall and winter is a thin squeaky nit, uttered up to 30 times a minute.
+1 A more distinctive sound is a shrill kri repeated rapidly with mounting anxiety or excitement kri-kri-kri-kri-kri-kri-kri-kri; the Rocky Mountains and Great Basin subspecies have a higher, faster yididitititit call, and Pacific birds a more nasal beeerf.
+1 Three other, significantly smaller, nuthatches have ranges which overlap that of White-breasted, but none has white plumage completely surrounding the eye.
+1 Further distinctions are that the Red-breasted Nuthatch has a black eye line and reddish underparts, and the Brown-headed and Pygmy Nuthatches each have a brown cap, and a white patch on the nape of the neck.
+1 The White-breasted Nuthatch has nine subspecies, although the differences are small and change gradually across the range.
+1 The subspecies are sometimes treated as three groups based on close similarities in morphology, habitat usage, and vocalizations.
+1 These groups cover eastern North America, the Great Basin and central Mexico, and the Pacific coastal regions.
+1 The subspecies of the western interior have the darkest upperparts, and eastern S. c. carolinensis has the palest back.
+1 The eastern form also has a thicker bill and broader dark cap stripe than the interior and Pacific races.
+1 The calls of the three groups differ, as described above.
+1 The Great Basin and Eastern forms have been observed in secondary contact on the Great Plains, where they do not seem to mix.
+0 The breeding habitat of the White-breasted Nuthatch is woodland across North America, from southern Canada to northern Florida and southern Mexico.
+0 In the eastern part of its range, its preferred habitat is old-growth open deciduous or mixed forest, including orchards, parks, suburban gardens and cemeteries; it is found mainly in the lowlands, although it breeds at 1,675 m altitude in Tennessee.
+0 In the west and Mexico, this nuthatch is found in open montane pine-oak woodlands, and nesting occurs at up to 3,200 m altitude in Nevada, California and Mexico.
+0 Pinyon-juniper and riverside woodlands may be used locally where available.
+0 The White-breasted Nuthatch is the only North American nuthatch usually found in deciduous trees; Red-breasted, Pygmy and Brown-headed Nuthatches prefer pines.
+0 The presence of mature or decaying trees with holes suitable for nesting is essential, and trees such as oak, beech and hickory are favored in the east since they provide edible seeds.
+0 Although suitable habitat is distributed continentally, it is discontinuous, and the separate populations of this non-migratory species have diverged to form distinct regional subspecies.
+0 This nuthatch, like most of its genus, is non-migratory, and the adults normally stay in their territory year-round.
+0 There may be more noticeable dispersal due to seed failure or high reproductive success in some years, and this species has occurred as a vagrant to Vancouver Island, Santa Cruz Island, and Bermuda.
+0 One bird landed on the RMS Queen Mary six hours sailing east of New York in October 1963.
+0 The White-breasted Nuthatch is monogamous, and pairs form following a courtship in which the male bows to the female, spreading his tail and drooping his wings while swaying back and forth; he also feeds her morsels of food.
+0 The pair establish a territory of 0.10–0.15 square kilometers in woodland, and up to 0.2 square kilometers in semi-wooded habitats, and then remain together year-round until one partner dies or disappears.
+0 The nest cavity is usually a natural hole in a decaying tree, sometimes an old woodpecker nest, and occasionally an artificial nest box intended for the Eastern Bluebird.
+0 The nest hole is usually 3–12 m high in a tree and is lined with fur, fine grass, and shredded bark.
+0 The clutch is five to nine eggs which are creamy-white, speckled with reddish brown, and average 19 x 14 mm in size.
+0 The eggs are incubated by the female for 13 to 14 days prior to hatching, and the altricial chicks fledge in a further 18 to 26 days.
+0 Both adults feed the chicks in the nest and for about two weeks after fledging, and the male also feeds the female while she is incubating.
+0 Once independent, juveniles leave the adults' territory and either establish their own territory or become "floaters", unpaired birds without territories.
+0 It is probably these floaters which are mainly involved in the irregular dispersals of this species.
+0 This species of nuthatch roosts in tree holes or behind loose bark when not breeding, and has the unusual habit of removing its faeces from the roost site in the morning.
+0 It usually roosts alone except in very cold weather, when up to 29 birds have been recorded together.
+0 Predators of adult nuthatches include owls and diurnal birds of prey , and nestlings and eggs are eaten by woodpeckers, small squirrels, and climbing snakes such as the Smooth Green Snake.
+0 The White-breasted Nuthatch responds to predators near the nest by flicking its wings while making hn-hn calls.
+0 When a bird leaves the nest hole, it wipes around the entrance with a piece of fur or vegetation; this makes it more difficult for a predator to find the nest using its sense of smell.
+0 The nuthatch may also smear blister beetles around the entrance to its nest, and it has been suggested that the unpleasant smell from the crushed insects deters squirrels, its chief competitor for natural tree cavities.
+0 The estimated average lifespan of this nuthatch is two years, but the record is twelve years and nine months.
+0 This nuthatch's responses to predators may be linked to a reproductive strategy.
+0 A study compared the White-breasted Nuthatch with the Red-breasted Nuthatch in terms of the willingness of males to feed incubating females on the nest when presented with models of predators.
+0 The models were of a Sharp-shinned Hawk, which hunts adult nuthatches, and a House Wren, which destroys eggs.
+0 The White-breasted Nuthatch is shorter-lived than the Red-breasted Nuthatch, but has more young, and was found to respond more strongly to the egg predator, whereas the Red-breasted showed greater concern with the hawk.
+0 This supports the theory that longer-lived species benefit from adult survival and future breeding opportunities, while birds with shorter life spans place more value on the survival of their larger broods.
+0 The White-breasted Nuthatch forages along tree trunks and branches in a similar way to woodpeckers and treecreepers, but does not use its tail for additional support, instead progressing in jerky hops using its strong legs and feet.
+0 All nuthatches are distinctive when seeking food because they are able to descend tree trunks head-first and can hang upside-down beneath twigs and branches.
+0 This nuthatch is omnivorous, eating insects and seeds.
+0 It places large food items such as acorns or hickory nuts in crevices in tree trunks, and then hammers them open with its strong beak; surplus seeds are cached under loose bark or crevices of trees.
+0 The diet in winter may be nearly 70% seeds, but in summer it is mainly insects.
+0 The insects consumed by the White-breasted Nuthatch include caterpillars, ants, and pest species such as pine weevils, oystershell and other scale insects, and jumping plant lice.
+0 This bird will occasionally feed on the ground, and readily visits feeding stations for nuts, suet and sunflower seeds, the last of which it often takes away to store.
+0 The White-breasted Nuthatch often travels with small mixed flocks in winter.
+0 These flocks are led by titmice and chickadees, with nuthatches and Downy Woodpeckers as common attendant species.
+0 Participants in such flocks are thought to benefit in terms of foraging and predator avoidance.
+0 It is likely that the attendant species also access the information carried in the chickadees' calls and reduce their own level of vigilance accordingly.
+0 The White-breasted Nuthatch is a common species with a large range, estimated at 8.6 million square kilometers .
+0 Its total population is estimated at 10 million individuals, and there is evidence of an overall population increase, so it is not believed to approach either the size criterion or the population decline criterion of the IUCN Red List.
+0 For these reasons, the species is evaluated as Least Concern.
+0 The removal of dead trees from forests may cause problems locally for this species because it requires cavity sites for nesting; declines have been noted in Washington, Florida, and more widely in the southeastern U.S. west to Texas.
+0 In contrast, the breeding range is expanding in Alberta, and numbers are increasing in the northeast due to regrown forest.
+0 This nuthatch is protected under the Migratory Bird Treaty Act of 1918, to which the three countries in which it occurs are all signatories.

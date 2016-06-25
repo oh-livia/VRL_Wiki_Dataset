@@ -1,0 +1,35 @@
+0 The Ivory Gull Pagophila eburnea is a small gull, the only species in its genus.
+0 It breeds in the high arctic and has a circumpolar distribution through Greenland, northernmost North America, and Eurasia.
+0 The Ivory Gull was initially described by Constantine Phipps, 2nd Baron Mulgrave in 1774 as Larus eburneus from a specimen collected on Spitsbergen.
+0 Johann Jakob Kaup later recognized the unique traits of the Ivory Gull and gave it a monotypic genus, Pagophila, in 1829.
+0 Johan Ernst Gunnerus later gave the species a new specific name, Pagophila alba.
+0 Today some authors consider the Ivory Gull not deserving of its monotypic genus, instead to choosing to merge it, along with the other monotypic gulls, back into Larus.
+0 However, most authors have not chosen to do so.
+0 The Ivory Gull has no subspecies.
+0 No fossil members of this genus are known.
+0 This gull is traditionally believed to be most closely related to either the kittiwakes, Sabine's Gull, or Ross's Gull.
+0 It differs anatomically from the other genera by having a relatively short tarsometatarsus, a narrower os pubis, and potentially more flexibility in skull kinetic structure.
+0 Structurally, it is most similar to the kittiwakes; however, recent genetic analysis based on mtDNA sequences shows that Sabine's Gull is the Ivory Gull's closest relative, followed by the kittiwakes, with Ross's Gull and Swallow-tailed Gull sharing a clade with these species.
+0 "Pagophila" is maintained as a unique genus because of the bird’s morphological, behavioral and ecological differences from these species.
+1 This species is easy to identify.
+1 At 43 cm , it has a different, more pigeon-like shape than the Larus gulls, but the adult has completely white plumage, lacking the grey back of other gulls.
+1 The thick bill is blue with a yellow tip, and the legs are black.
+1 Its cry is a harsh eeeer.
+1 Young birds have a dusky face and variable amounts of black flecking in the wings and tail.
+1 The juveniles take two years to attain full adult plumage.
+1 There are no differences in appearance across the species’ geographic range.
+0 In North America, it only breeds in the Canadian Arctic.
+0 Seymour Island, Nunavut is home to the largest known breeding colony, while Ellesmere, Devon, Cornwallis, and north Baffin Islands are known locations of breeding colonies.
+0 It is believed that there are other small breeding colonies of less than six birds that are still undiscovered.
+0 There are no records of the Ivory Gull breeding in Alaska.
+0 During the winter, Ivory Gulls live near polynyas, or a large area of open water surrounded by sea ice.
+0 North American birds, along with some from Greenland and Europe, winter along the 2000 km of ice edge stretching between 50° and 64° N from the Labrador Sea to Davis Strait that is bordered by Labrador and southwestern Greenland.
+0 Wintering gulls are often seen on the eastern coasts of Newfoundland and Labrador and occasionally appear on the north shore of the Gulf of St. Lawrence and the interior of Labrador.
+0 It also winters from October through June in the Bering Sea and Chukchi Seas.
+0 It is most widespread throughout the polynyas and pack ice of the Bering Sea.
+0 It is also vagrant throughout coastal Canada and the northeastern United States, though records of individuals as far south as California and Georgia have been reported, with most records from late November through early March.
+0 Juveniles tend to wander further from the Arctic than adults.
+0 It migrates only short distances south in autumn, most of the population wintering in northern latitudes at the edge of the pack ice, although some birds reach more temperate areas.
+0 It takes fish and crustaceans, rodents, eggs and small chicks but is also an opportunist scavenger, often found on seal or porpoise corpses.
+0 It has been known to follow polar bears and other predators to feed on the remains of their kills.
+0 Ivory Gull breeds on Arctic coasts and cliffs, laying one to three olive eggs in a ground nest lined with moss, lichens, or seaweed.

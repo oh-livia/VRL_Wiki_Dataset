@@ -1,0 +1,13 @@
+0 The Black-billed Cuckoo, Coccyzus erythropthalmus, is a cuckoo.
+1 Adults have a long brown tail and a black bill.
+1 The head and upper parts are brown and the underparts are white.
+1 There is a red ring around the eye.
+1 Juveniles are drabber, and the eye ring is greenish.
+0 Their breeding habitat is edges of wooded areas across North America east of the Rockies.
+0 They nest in a low tree or shrub, sometimes on the ground.
+0 They sometimes lay eggs in the nests of other birds.
+0 They migrate to South America.
+0 This species is a very rare vagrant to western Europe.
+0 These birds forage in shrubs or trees.
+0 They mainly eat insects, especially tent caterpillars, but also some snails, eggs of other birds and berries.
+0 The call is a rapid repetitive Coocoocoo.

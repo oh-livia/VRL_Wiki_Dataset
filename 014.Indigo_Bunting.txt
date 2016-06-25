@@ -1,0 +1,67 @@
+0 The Indigo Bunting, Passerina cyanea, is a small seed-eating bird in the family Cardinalidae.
+0 It is migratory, ranging from southern Canada to northern Florida during the breeding season, and from southern Florida to northern South America during the winter.
+0 It often migrates by night, using the stars to navigate.
+0 Its habitat is farmland, brush areas, and open woodland.
+0 The Indigo Bunting is closely related to the Lazuli Bunting, and interbreeds with the latter species where their ranges overlap.
+0 The Indigo Bunting is a small bird, with a length of 11.5–13 cm .
+0 It displays sexual dimorphism in its coloration; the male is a vibrant blue in the summer and a brown color during the winter months, while the female is brown year-round.
+0 The male displays brightly colored plumage during the breeding season to attract a mate.
+0 Nest-building and incubation are done solely by the female.
+0 The diet of the Indigo Bunting consists primarily of insects during the summer months and seeds during the winter months.
+0 The Indigo Bunting is included in the family Cardinalidae, which is made up of passerine birds found in North and South America, and is one of seven birds in the genus Passerina.
+0 It was originally described as Loxia cyanea by Linnaeus in his 18th-century work, Systema Naturae.
+0 The current genus name, Passerina, is derived from the Latin term passer for true sparrows and similar small birds, while the species name, cyanea, is from the Latin word meaning dark or sea blue.
+0 The Indigo Bunting is closely related to the Lazuli Bunting, and interbreeds with the latter species where their ranges overlap, in the Great Plains.
+0 They were declared to form a superspecies by the American Ornithologists' Union in 1983.
+0 However, according to sequencing of the mitochondrial cytochrome-b gene of members of the genus Passerina, it was determined that the Indigo Bunting and Lazuli Bunting are not, in fact, sister taxa.
+0 The Indigo Bunting is the sister of two sister groups, a “blue” and a “painted” clade.
+0 This genetic study shows these species diverged between 4.1 and 7.3 million years ago.
+0 This timing, which is consistent with fossil evidence, coincides with a late-Miocene cooling, which caused the evolution of a variety of western grassland habitats.
+0 Evolving to reduce size may have allowed buntings to exploit grass seeds as a food source.
+1 The Indigo Bunting is 11.5–13 cm long, with a wingspan of 20–23 cm .
+1 During the breeding season, the adult male has deep blue plumage, with a darker crown that verges on purple.
+1 The wings and tail are black with blue edges.
+1 In fall and winter plumage, the male is similar to the female, but often retains some blue feathers.
+1 The adult female is dark brown on the upperparts and lighter brown on the underparts.
+1 It has indistinct wing bars and is faintly streaked with dark underneath.
+1 The immature bird resembles the female in coloring, although a male may have hints of blue on the tail and shoulders and have darker streaks on the underside.
+1 The beak is short and conical.
+1 In the adult female, the bill is light brown tinged with blue, and in the adult male the upper half is brownish-black while the lower is light blue.
+1 The feet and legs are black or gray.
+0 The habitat of the Indigo Bunting is brushy forest edges, open deciduous woods, second growth woodland, and farmland.
+0 The breeding range stretches from southern Canada to Maine, south to northern Florida and eastern Texas, and westward to southern Nevada.
+0 The winter range begins in southern Florida and central Mexico and stretches south through the West Indies and Central America to northern South America.
+0 It has occurred as a vagrant in Antigua and Barbuda, Barbados, Denmark, Ecuador, Germany, Iceland, Ireland, Netherlands, the Netherlands Antilles, Saint Pierre and Miquelon, Serbia and the United Kingdom.
+0 The Indigo Bunting communicates through vocalizations and visual cues.
+0 A sharp chip!
+0 call is used by both sexes, and is used as an alarm call if a nest or chick is threatened.
+0 A high-pitched, buzzed zeeep is used as a contact call when the Indigo Bunting is in flight.
+0 The song of the male bird is a high-pitched buzzed sweet-sweet chew-chew sweet-sweet, lasting two to four seconds, sung to mark his territory to other males and to attract females.
+0 Each male has a single complex song, which he sings while perched on elevated objects, such as posts, wires, and bush-tops.
+0 In areas where the ranges of the Lazuli Bunting and the Indigo Bunting overlap, the males defend territories from each another.
+0 Migration takes place in April and May and then again in September and October.
+0 The Indigo Bunting often migrates during the night, using the stars to direct itself.
+0 In captivity, since it cannot migrate, it experiences disorientation in April and May and in September and October if it cannot see the stars from its enclosure.
+0 These birds are generally monogamous but not always faithful to their partner.
+0 In the western part of their range, they often hybridize with the Lazuli Bunting.
+0 Nesting sites are located in dense shrub or a low tree, generally 0.3–1 m above the ground, but rarely up to 9 m .
+0 The nest itself is constructed of leaves, coarse grasses, stems, and strips of bark, lined with soft grass or deer hair and is bound with spider web.
+0 It is constructed by the female, who cares for the eggs alone.
+0 The clutch consists of one to four eggs, but usually contains three to four.
+0 The eggs are white and usually unmarked, though some may be marked with brownish spots, averaging 18.7 × 13.7 mm in size.
+0 The eggs are incubated for 12 to 13 days and the chicks are altricial at hatching.
+0 Chicks fledge 10 to 12 days after hatching.
+0 Most pairs raise two broods per year, and the male may feed newly fledged young while the females incubate the next clutch of eggs.
+0 The Brown-headed Cowbird may parasitize this species.
+0 Indigo Buntings abandon their nest if a cowbird egg appears before they lay any of their own eggs, but accept the egg after that point.
+0 Pairs with parasitized nests have less reproductive success.
+0 The bunting chicks hatch, but have lower survival rates as they must compete with the cowbird chick for food.
+0 The Indigo Bunting forages for food on the ground or in trees or shrubs.
+0 In winter, it often feeds in flocks with other Indigo Buntings, but is a solitary feeder during the breeding season.
+0 During the breeding season, the species eats insects, seeds and berries, including caterpillars, grasshoppers, spiders, beetles, and grass seeds.
+0 The seeds of grasses are the mainstay of its diet during the winter, although buds, and insects are eaten when available.
+0 The young are fed mainly insects at first, to provide them with protein.
+0 The Indigo Bunting does not drink frequently, generally obtaining sufficient water from its diet.
+0 The species is of Least Concern according to the IUCN, with an estimated range of 5,900,000 km² and a population of 28,000,000 individuals.
+0 Global population trends have not been quantified, but the species is not believed to approach the thresholds for a population decline warranting an upgrade in conservation status.
+0 The criteria for a change in conservation status are a decline of more than 30% in ten years or over three generations.
